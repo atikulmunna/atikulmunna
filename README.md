@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Android App Development**
 
-- 👨‍💻 All of my projects are available at [atikulmunna.github.io](atikulmunna.github.io)
+- 👨‍💻 All of my projects are available at [atikulmunna.github.io](https://atikulmunna.github.io)
 
 - 📫 How to reach me **atikul.munna@northsouth.edu**
 
