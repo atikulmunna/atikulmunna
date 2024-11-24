@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atikul Islam Munna</h1>
-<h3 align="center">A undergrad student of CSE, exploring the enormous field of programming</h3>
+<h3 align="center">learning, exploring, expermienting</h3>
 
 - 🔭 I’m currently working on [ChatBuddy](https://github.com/atikulmunna/real-time-chatting-application)
 
