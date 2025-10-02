@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Atikul Islam Munna</h1>
 <h3 align="center">learning, exploring, experimenting</h3>
 
-- 🔭 I’m currently working on [Voice-Controlled General Purpose Robotic Arm](https://github.com/atikulmunna/chatbuddy)
+- 🔭 I’m currently working on [ArmCortex](https://github.com/atikulmunna/ArmCortex)
 
-- 🌱 I’m currently learning **Android App Development**
+- 🌱 I’m currently learning **Computer Vision Tasks**
 
 - 👨‍💻 All of my projects are available at [atikulmunna.github.io](https://atikulmunna.github.io)
 
