@@ -34,7 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" alt="plotly" width="48" height="48"/>
   <img src="./assets/Pygame_logo.svg.png" alt="pygame" width="120" height="48"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="48" height="48"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="colab" width="48" height="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="colab" width="80" height="48"/>
   <img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,js&perline=8" />
 </p>
 
@@ -42,6 +42,11 @@
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,arduino,raspberrypi&perline=8" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=git,linux,mysql,figma,latex&perline=8" />
+  
+  <img src="./assets/MuJoCo.jpg" alt="mujoco" width="120" height="48"/>
+  <img src="./assets/onshape.png" alt="onshape" width="48" height="48"/>
+  <img src="./assets/autocad-seeklogo.png" alt="autocad" width="48" height="48"/>
+  <img src="./assets/Microsoft_Office_Excel_(2025–present).svg.png" alt="excel" width="48" height="48"/>
 </p>
 
 ---
