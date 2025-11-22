@@ -31,7 +31,9 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,android,firebase,mysql,git,linux,figma,arduino&perline=9" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,mysql,git,linux,figma,arduino&perline=8" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="48" height="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48"/>
 </p>
 
 ---
@@ -48,6 +50,11 @@
 </div>
 
 <div align="center">
+  <img src="https://img.shields.io/github/stars/atikulmunna?style=for-the-badge&logo=github&logoColor=white&color=yellow" alt="Total Stars"/>
+  <img src="https://img.shields.io/github/followers/atikulmunna?style=for-the-badge&logo=github&logoColor=white&color=blue" alt="Followers"/>
+</div>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=atikulmunna&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph"/>
 </div>
 
@@ -57,14 +64,6 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=atikulmunna&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
-</div>
-
----
-
-### 📈 Profile Views
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=atikulmunna&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 ---
