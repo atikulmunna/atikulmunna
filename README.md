@@ -35,10 +35,12 @@
   <img src="./assets/Pygame_logo.svg.png" alt="pygame" width="120" height="48"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="48" height="48"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="colab" width="80" height="48"/>
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,js&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,c,cpp&perline=8" />
 </p>
 
 <p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css&perline=8" />
+
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,arduino,raspberrypi&perline=8" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=git,linux,mysql,figma,latex&perline=8" />
