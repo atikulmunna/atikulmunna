@@ -21,7 +21,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 Currently working on **[ArmCortex](https://github.com/atikulmunna/ArmCortex)**
-- 🌱 Learning **Computer Vision Tasks**
+- 🌱 Learning **IL and RL in General-Purpose Robotics**
 - 💼 Portfolio: **[atikulmunna.github.io](https://atikulmunna.github.io)**
 - 📫 Reach me: **atikulxmunna@gmail.com**
 
