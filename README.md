@@ -21,3 +21,15 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atikulmunna&show_icons=true&locale=en&layout=compact" alt="atikulmunna" /></p> -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atikulmunna&show_icons=true&locale=en" alt="atikulmunna" /></p>
+
+
+
+<!-- Snake Animation -->
+
+<div align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/atikulmunna/atikulmunna/output/github-contribution-grid-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/atikulmunna/atikulmunna/output/github-contribution-grid-snake.svg" />
+<img alt="github contribution grid snake animation" src="https://www.google.com/search?q=https://raw.githubusercontent.com/atikulmunna/atikulmunna/output/github-contribution-grid-snake.svg" />
+</picture>
+</div>
