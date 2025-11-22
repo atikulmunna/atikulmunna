@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Atikul Islam</h1>
-<h3 align="center">learning, exploring, experimenting</h3>
+<h3 align="center">learning, exploring, experimenting </h3>
+<h2 align="center">ML/DL | Computer Vision | Edge AI</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/aimunna" target="_blank">
