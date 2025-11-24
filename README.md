@@ -52,6 +52,11 @@
   <img src="./assets/onshape.png" alt="onshape" width="48" height="48"/>
   <img src="./assets/autocad-seeklogo.png" alt="autocad" width="48" height="48"/>
   <img src="./assets/Microsoft_Office_Excel_(2025–present).svg.png" alt="excel" width="48" height="48"/>
+  <img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logotype_Original.svg" alt="ultralytics" width="120" height="48"/>
+  <img src="https://raw.githubusercontent.com/wandb/assets/main/wandb-logo-yellow-dots-black-wb.svg" alt="wandb" width="120" height="48"/>
+  <img src="https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge&logo=roboflow&logoColor=white" alt="roboflow"/>
+  <img src="./assets/lightning.png" alt="autocad" width="48" height="48"/>
+
 </p>
 
 ---
