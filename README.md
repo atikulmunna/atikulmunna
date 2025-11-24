@@ -52,6 +52,8 @@
   <img src="./assets/MuJoCo.jpg" alt="mujoco" width="120" height="48"/>
   <img src="./assets/onshape.png" alt="onshape" width="48" height="48"/>
   <img src="./assets/lightning.png" alt="autocad" width="48" height="48"/>
+    <img src="./assets/gradio.png" alt="autocad" width="48" height="48"/>
+
   <img src="./assets/autocad-seeklogo.png" alt="autocad" width="48" height="48"/>
   <img src="./assets/Microsoft_Office_Excel_(2025–present).svg.png" alt="excel" width="48" height="48"/>
   <img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logotype_Original.svg" alt="ultralytics" width="120" height="48"/>
