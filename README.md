@@ -39,21 +39,20 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="48" height="48"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="colab" width="80" height="48"/>
   <img src="https://skillicons.dev/icons?i=java,c,cpp,html,css&perline=8" />
-
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase&perline=8" />
   
 </p>
 
 <p align="center">
 
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,arduino,raspberrypi&perline=8" />
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&perline=8" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=git,linux,mysql,figma,latex&perline=8" />
   
   <img src="./assets/MuJoCo.jpg" alt="mujoco" width="120" height="48"/>
   <img src="./assets/onshape.png" alt="onshape" width="48" height="48"/>
   <img src="./assets/lightning.png" alt="autocad" width="48" height="48"/>
-    <img src="./assets/gradio.png" alt="autocad" width="48" height="48"/>
-
+  <img src="./assets/gradio.png" alt="autocad" width="48" height="48"/>
   <img src="./assets/autocad-seeklogo.png" alt="autocad" width="48" height="48"/>
   <img src="./assets/Microsoft_Office_Excel_(2025–present).svg.png" alt="excel" width="48" height="48"/>
   <img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logotype_Original.svg" alt="ultralytics" width="120" height="48"/>
