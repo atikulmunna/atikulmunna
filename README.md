@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Consolas&size=24&duration=3000&pause=1000&color=33BEC5&center=true&vCenter=true&width=435&lines=Learning...;Exploring...;Experimenting..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=17&duration=3000&pause=1000&color=4C52D4&center=true&vCenter=true&width=435&height=33&lines=learning...;exploring...;experimenting..." alt="Typing SVG" />
 </div>
 
 <h2 align="center">ML/DL | Computer Vision | Edge AI</h2>
