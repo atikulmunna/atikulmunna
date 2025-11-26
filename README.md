@@ -1,4 +1,7 @@
-<h3 align="center">learning, exploring, experimenting </h3>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Consolas&size=24&duration=3000&pause=1000&color=33BEC5&center=true&vCenter=true&width=435&lines=Learning...;Exploring...;Experimenting..." alt="Typing SVG" />
+</div>
+
 <h2 align="center">ML/DL | Computer Vision | Edge AI</h2>
 
 <p align="center">
@@ -65,12 +68,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-five-nu-87.vercel.app/api?username=atikulmunna&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  
   <img height="180em" src="https://github-readme-stats-five-nu-87.vercel.app/api/top-langs/?username=atikulmunna&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8&hide=html,css"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats-azure-two-77.vercel.app/?user=atikulmunna&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
