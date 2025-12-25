@@ -40,11 +40,11 @@
   <tr>
     <td align="center"><b>Languages</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=python,java,c,cpp,dart,html,css" />
+      <img src="https://skillicons.dev/icons?i=python,java,c,cpp,dart,r,html,css" />
     </td>
   </tr>
   <tr>
-    <td align="center"><b>AI, Data Science & CV</b></td>
+    <td align="center"><b>AI, ML & CV</b></td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
@@ -56,9 +56,18 @@
       <img src="./assets/lightning.png" alt="lightning" width="40" height="40"/>
       <img src="./assets/gradio.png" alt="gradio" width="40" height="40"/>
       <br>
+      <img src="./assets/roboflow.png" alt="lightning" width="40" height="40"/>
+      <img src="./assets/ollama.png" alt="lightning" width="40" height="40"/>
+      <img src="./assets/huggingface.png" alt="gradio" width="40" height="40"/>
+      <br>
       <img src="https://raw.githubusercontent.com/wandb/assets/main/wandb-logo-yellow-dots-black-wb.svg" alt="wandb" width="100" height="40"/>
       <img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logotype_Original.svg" alt="ultralytics" width="100" height="40"/>
-      <img src="https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge&logo=roboflow&logoColor=white" alt="roboflow"/>
+    </td>
+  </tr>
+   <tr>
+    <td align="center"><b>Database</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
     </td>
   </tr>
   <tr>
@@ -68,14 +77,14 @@
       <img src="./assets/MuJoCo.jpg" alt="mujoco" width="100" height="40"/>
       <img src="./assets/onshape.png" alt="onshape" width="40" height="40"/>
       <img src="./assets/autocad-seeklogo.png" alt="autocad" width="40" height="40"/>
+      <img src="./assets/Pygame_logo.svg.png" alt="pygame" width="100" height="40"/>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Mobile & Tools</b></td>
+    <td align="center"><b>Mobile, DevOps & Tools</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=flutter,firebase,git,linux,mysql,figma,latex" />
+      <img src="https://skillicons.dev/icons?i=flutter,firebase,git,docker,linux,bash,figma,latex" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>
-      <img src="./assets/Pygame_logo.svg.png" alt="pygame" width="100" height="40"/>
       <img src="./assets/Microsoft_Office_Excel_(2025–present).svg.png" alt="excel" width="40" height="40"/>
     </td>
   </tr>
