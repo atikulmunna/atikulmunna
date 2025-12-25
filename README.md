@@ -32,35 +32,54 @@
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&perline=8" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" alt="plotly" width="48" height="48"/>
-  <img src="./assets/Pygame_logo.svg.png" alt="pygame" width="120" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="48" height="48"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="colab" width="80" height="48"/>
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,html,css&perline=8" />
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,arduino,raspberrypi&perline=8" />
-  
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=git,linux,mysql,figma,latex&perline=8" />
-  
-  <img src="./assets/MuJoCo.jpg" alt="mujoco" width="120" height="48"/>
-  <img src="./assets/onshape.png" alt="onshape" width="48" height="48"/>
-  <img src="./assets/lightning.png" alt="autocad" width="48" height="48"/>
-  <img src="./assets/gradio.png" alt="autocad" width="48" height="48"/>
-  <img src="./assets/autocad-seeklogo.png" alt="autocad" width="48" height="48"/>
-  <img src="./assets/Microsoft_Office_Excel_(2025–present).svg.png" alt="excel" width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/wandb/assets/main/wandb-logo-yellow-dots-black-wb.svg" alt="wandb" width="120" height="48"/>
-  <img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logotype_Original.svg" alt="ultralytics" width="120" height="48"/>
-  <img src="https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge&logo=roboflow&logoColor=white" alt="roboflow"/>
-
-</p>
+<table width="100%">
+  <tr>
+    <td align="center" width="20%"><b>Category</b></td>
+    <td align="center"><b>Technology</b></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Languages</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python,java,c,cpp,dart,html,css" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>AI, Data Science & CV</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" alt="plotly" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="colab" width="65" height="40"/>
+      <img src="./assets/lightning.png" alt="lightning" width="40" height="40"/>
+      <img src="./assets/gradio.png" alt="gradio" width="40" height="40"/>
+      <br>
+      <img src="https://raw.githubusercontent.com/wandb/assets/main/wandb-logo-yellow-dots-black-wb.svg" alt="wandb" width="100" height="40"/>
+      <img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logotype_Original.svg" alt="ultralytics" width="100" height="40"/>
+      <img src="https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge&logo=roboflow&logoColor=white" alt="roboflow"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Robotics & Engineering</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+      <img src="./assets/MuJoCo.jpg" alt="mujoco" width="100" height="40"/>
+      <img src="./assets/onshape.png" alt="onshape" width="40" height="40"/>
+      <img src="./assets/autocad-seeklogo.png" alt="autocad" width="40" height="40"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Mobile & Tools</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=flutter,firebase,git,linux,mysql,figma,latex" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>
+      <img src="./assets/Pygame_logo.svg.png" alt="pygame" width="100" height="40"/>
+      <img src="./assets/Microsoft_Office_Excel_(2025–present).svg.png" alt="excel" width="40" height="40"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
