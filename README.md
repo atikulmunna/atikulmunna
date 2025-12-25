@@ -59,7 +59,7 @@
       <img src="./assets/roboflow.png" alt="rf" width="40" height="40"/>
       <img src="./assets/ollama.png" alt="oll" width="50" height="50"/>
       <img src="./assets/huggingface.png" alt="hf" width="40" height="40"/>
-      <img src="./assets/wandb.png" alt="hf" width="40" height="40"/>
+      <img src="./assets/wandb.png" alt="hf" width="35" height="35"/>
     </td>
   </tr>
    <tr>
