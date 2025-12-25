@@ -56,18 +56,18 @@
       <img src="./assets/lightning.png" alt="lightning" width="40" height="40"/>
       <img src="./assets/gradio.png" alt="gradio" width="40" height="40"/>
       <br>
-      <img src="./assets/roboflow.png" alt="lightning" width="40" height="40"/>
-      <img src="./assets/ollama.png" alt="lightning" width="40" height="40"/>
-      <img src="./assets/huggingface.png" alt="gradio" width="40" height="40"/>
-      <br>
-      <img src="https://raw.githubusercontent.com/wandb/assets/main/wandb-logo-yellow-dots-black-wb.svg" alt="wandb" width="100" height="40"/>
-      <img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logotype_Original.svg" alt="ultralytics" width="100" height="40"/>
+      <img src="./assets/roboflow.png" alt="rf" width="40" height="40"/>
+      <img src="./assets/ollama.png" alt="oll" width="50" height="50"/>
+      <img src="./assets/huggingface.png" alt="hf" width="40" height="40"/>
+      <img src="./assets/wandb.png" alt="hf" width="40" height="40"/>
     </td>
   </tr>
    <tr>
     <td align="center"><b>Database</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+      <img src="./assets/dbeaver.png" alt="db" width="40" height="40"/>
+      <img src="./assets/neo4j.png" alt="db" width="40" height="40"/>
     </td>
   </tr>
   <tr>
@@ -83,9 +83,7 @@
   <tr>
     <td align="center"><b>Mobile, DevOps & Tools</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=flutter,firebase,git,docker,linux,bash,figma,latex" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>
-      <img src="./assets/Microsoft_Office_Excel_(2025–present).svg.png" alt="excel" width="40" height="40"/>
+      <img src="https://skillicons.dev/icons?i=flutter,git,docker,linux,bash,figma,latex" />
     </td>
   </tr>
 </table>
