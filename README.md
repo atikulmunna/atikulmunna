@@ -1,3 +1,7 @@
+![My GitHub Game](./game.gif)
+
+
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=20&duration=3000&pause=1000&color=4C52D4&center=true&vCenter=true&width=435&height=33&lines=learning...;exploring...;experimenting..." alt="Typing SVG" />
 </div>
