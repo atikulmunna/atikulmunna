@@ -44,7 +44,7 @@
   <tr>
     <td align="center"><b>Languages</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=python,java,c,cpp,dart,r,html,css" />
+      <img src="https://skillicons.dev/icons?i=python,java,kotlin,c,cpp,dart,r" />
     </td>
   </tr>
   <tr>
