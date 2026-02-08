@@ -30,7 +30,7 @@
 - 🔭 Currently working on **[ArmCortex](https://github.com/atikulmunna/ArmCortex)**
 - 🌱 Learning **IL and RL in General-Purpose Robotics**
 - 💼 Portfolio: **[atikulmunna.github.io](https://atikulmunna.github.io)**
-- 📫 Reach me: **atikulxmunna@gmail.com**
+- 📫 Reach me: **aimunna@proton.me**
 
 ---
 
@@ -55,15 +55,8 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" alt="plotly" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="colab" width="65" height="40"/>
       <img src="./assets/lightning.png" alt="lightning" width="40" height="40"/>
       <img src="./assets/gradio.png" alt="gradio" width="40" height="40"/>
-      <br>
-      <img src="./assets/roboflow.png" alt="rf" width="40" height="40"/>
-      <img src="./assets/ollama.png" alt="oll" width="50" height="50"/>
-      <img src="./assets/huggingface.png" alt="hf" width="40" height="40"/>
-      <img src="./assets/wandb.png" alt="hf" width="35" height="35"/>
     </td>
   </tr>
    <tr>
@@ -85,11 +78,13 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Mobile, DevOps & Tools</b></td>
+    <td align="center"><b>Backend, DevOps & Tools</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=flutter,git,docker,linux,bash,figma,latex" />
+      <img src="https://skillicons.dev/icons?i=fastapi,redis,prometheus,grafana,flutter,git,docker,bash,latex" />
     </td>
   </tr>
+
+  
 </table>
 
 ---
@@ -101,14 +96,11 @@
   <img height="180em" src="https://github-readme-stats-five-nu-87.vercel.app/api/top-langs/?username=atikulmunna&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8&hide=html,css"/>
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/github/stars/atikulmunna?style=for-the-badge&logo=github&logoColor=white&color=yellow" alt="Total Stars"/>
-  <img src="https://img.shields.io/github/followers/atikulmunna?style=for-the-badge&logo=github&logoColor=white&color=blue" alt="Followers"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=atikulmunna&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph"/>
 </div>
+
 
 
 ---
