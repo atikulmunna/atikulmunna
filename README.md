@@ -27,8 +27,8 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on **[ArmCortex](https://github.com/atikulmunna/ArmCortex)**
-- 🌱 Learning **IL and RL in General-Purpose Robotics**
+- 🔭 Currently working on **[WebTorrent P2P Stream App]([https://github.com/atikulmunna/ArmCortex](https://github.com/atikulmunna/webtorrent-p2p-stream-app))**
+- 🌱 Learning **WebTorrent.js**
 - 💼 Portfolio: **[atikulmunna.github.io](https://atikulmunna.github.io)**
 - 📫 Reach me: **aimunna@proton.me**
 
