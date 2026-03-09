@@ -79,7 +79,7 @@
   <tr>
     <td align="center"><b>Backend, DevOps & Tools</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=fastapi,redis,prometheus,grafana,flutter,git,docker,bash,latex" />
+      <img src="https://skillicons.dev/icons?i=fastapi,redis,prometheus,grafana,flutter,git,docker,bash" />
     </td>
   </tr>
 
