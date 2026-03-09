@@ -50,10 +50,7 @@
     <td align="center"><b>AI, ML & CV</b></td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" alt="plotly" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/>
       <img src="./assets/lightning.png" alt="lightning" width="40" height="40"/>
       <img src="./assets/gradio.png" alt="gradio" width="40" height="40"/>
     </td>
@@ -61,8 +58,8 @@
    <tr>
     <td align="center"><b>Database</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
-      <img src="./assets/dbeaver.png" alt="db" width="40" height="40"/>
+      <img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,redis" />
+      <img src="./assets/qdrant.png" alt="qdrant" width="40" height="40"/>
       <img src="./assets/neo4j.png" alt="db" width="40" height="40"/>
     </td>
   </tr>
@@ -79,7 +76,7 @@
   <tr>
     <td align="center"><b>Backend, DevOps & Tools</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=fastapi,redis,prometheus,grafana,flutter,git,docker,bash" />
+      <img src="https://skillicons.dev/icons?i=fastapi,prometheus,grafana,flutter,git,docker,bash" />
     </td>
   </tr>
 
