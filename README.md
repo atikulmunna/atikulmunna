@@ -27,7 +27,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on **[DevLens](https://github.com/atikulmunna/devlens-fullstack)**
+- 🔭 Currently working on **[ChainAttest](https://github.com/atikulmunna/chainattest)**
 - 💼 Portfolio: **[atikulmunna.github.io](https://atikulmunna.github.io)**
 - 📫 Reach me: **aimunna@proton.me**
 
