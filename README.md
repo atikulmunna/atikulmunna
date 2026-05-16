@@ -43,7 +43,7 @@
   <tr>
     <td align="center"><b>Languages</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=python,typescript,kotlin,c,cpp,dart" />
+      <img src="https://skillicons.dev/icons?i=python,typescript,kotlin,c,dart" />
     </td>
   </tr>
   <tr>
