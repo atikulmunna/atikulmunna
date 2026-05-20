@@ -82,7 +82,7 @@
 </table>
 
 ---
-
+<!--
 ### 📊 GitHub Statistics
 
 <div align="center">
@@ -99,8 +99,7 @@
 
 
 ---
-
-<!-- 
+ 
 ### 🐍 Contribution Snake
 
 <div align="center">
