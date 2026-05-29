@@ -25,10 +25,8 @@
 
 ---
 
-### 👨‍💻 About Me
 
-- 🔭 Currently working on **[ChainAttest](https://github.com/atikulmunna/chainattest)**
-- 💼 Portfolio: **[atikulmunna.github.io](https://atikulmunna.github.io)**
+- 💼 Portfolio: **[aimunna.me](https://aimunna.me/)**
 - 📫 Reach me: **aimunna@proton.me**
 
 ---
