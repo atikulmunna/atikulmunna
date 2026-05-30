@@ -2,8 +2,8 @@ name: Update Space Shooter
 
 on:
   schedule:
-    - cron: '0 0 * * *'   # Daily at midnight UTC
-  workflow_dispatch:        # Allow manual trigger
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 2    # Required for commit-amend behavior
+          fetch-depth: 2
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -24,53 +24,8 @@ jobs:
       - name: Install gh-space-shooter
         run: pip install gh-space-shooter
 
-      - name: Patch colors to black & white theme
-        run: |
-          python - <<'PYEOF'
-          import gh_space_shooter.game.render_context as rc
-          import inspect, pathlib, textwrap
-
-          path = pathlib.Path(rc.__file__)
-          src = path.read_text()
-
-          old = textwrap.dedent("""
-              @staticmethod
-              def darkmode() -> \"RenderContext\":
-                  \"\"\"Predefined dark mode rendering context.\"\"\"
-                  return RenderContext(
-                      cell_size=12,
-                      cell_spacing=3,
-                      padding=40,
-                      background_color=(13, 17, 23),
-                      grid_color=(22, 27, 34),
-                      enemy_colors={1: (0, 109, 50), 2: (38, 166, 65), 3: (57, 211, 83), 4: (87, 242, 135)},
-                      ship_color=(68, 147, 248),
-                      bullet_color=(255, 223, 0),
-                  )
-          """).strip()
-
-          new = textwrap.dedent("""
-              @staticmethod
-              def darkmode() -> \"RenderContext\":
-                  \"\"\"Black and white theme.\"\"\"
-                  return RenderContext(
-                      cell_size=12,
-                      cell_spacing=3,
-                      padding=40,
-                      background_color=(0, 0, 0),
-                      grid_color=(20, 20, 20),
-                      enemy_colors={1: (60, 60, 60), 2: (110, 110, 110), 3: (170, 170, 170), 4: (230, 230, 230)},
-                      ship_color=(255, 255, 255),
-                      bullet_color=(200, 200, 200),
-                  )
-          """).strip()
-
-          if old not in src:
-              print("WARNING: Could not find original darkmode() — skipping patch")
-          else:
-              path.write_text(src.replace(old, new))
-              print("Patched render_context.py to black & white theme")
-          PYEOF
+      - name: Patch to black and white theme
+        run: echo "CmltcG9ydCBnaF9zcGFjZV9zaG9vdGVyLmdhbWUucmVuZGVyX2NvbnRleHQgYXMgcmMKaW1wb3J0IHBhdGhsaWIKCk5FV19TUkMgPSAoCiAgICAiZnJvbSBkYXRhY2xhc3NlcyBpbXBvcnQgZGF0YWNsYXNzXG4iCiAgICAiZnJvbSB0eXBpbmcgaW1wb3J0IFR1cGxlXG4iCiAgICAiXG4iCiAgICAiQGRhdGFjbGFzc1xuIgogICAgImNsYXNzIFJlbmRlckNvbnRleHQ6XG4iCiAgICAiICAgIGNlbGxfc2l6ZTogaW50XG4iCiAgICAiICAgIGNlbGxfc3BhY2luZzogaW50XG4iCiAgICAiICAgIHBhZGRpbmc6IGludFxuIgogICAgIiAgICBiYWNrZ3JvdW5kX2NvbG9yOiBUdXBsZVtpbnQsIGludCwgaW50XVxuIgogICAgIiAgICBncmlkX2NvbG9yOiBUdXBsZVtpbnQsIGludCwgaW50XVxuIgogICAgIiAgICBzaGlwX2NvbG9yOiBUdXBsZVtpbnQsIGludCwgaW50XVxuIgogICAgIiAgICBidWxsZXRfY29sb3I6IFR1cGxlW2ludCwgaW50LCBpbnRdXG4iCiAgICAiICAgIGVuZW15X2NvbG9yczogZGljdFtpbnQsIFR1cGxlW2ludCwgaW50LCBpbnRdXVxuIgogICAgIlxuIgogICAgIiAgICBkZWYgZ2V0X2NlbGxfcG9zaXRpb24oc2VsZiwgeDogZmxvYXQsIHk6IGZsb2F0KSAtPiB0dXBsZVtmbG9hdCwgZmxvYXRdOlxuIgogICAgIiAgICAgICAgcmV0dXJuIChcbiIKICAgICIgICAgICAgICAgICBzZWxmLnBhZGRpbmcgKyB4ICogKHNlbGYuY2VsbF9zaXplICsgc2VsZi5jZWxsX3NwYWNpbmcpLFxuIgogICAgIiAgICAgICAgICAgIHNlbGYucGFkZGluZyArIHkgKiAoc2VsZi5jZWxsX3NpemUgKyBzZWxmLmNlbGxfc3BhY2luZyksXG4iCiAgICAiICAgICAgICApXG4iCiAgICAiXG4iCiAgICAiICAgIEBzdGF0aWNtZXRob2RcbiIKICAgICIgICAgZGVmIGRhcmttb2RlKCk6XG4iCiAgICAiICAgICAgICByZXR1cm4gUmVuZGVyQ29udGV4dChcbiIKICAgICIgICAgICAgICAgICBjZWxsX3NpemU9MTIsXG4iCiAgICAiICAgICAgICAgICAgY2VsbF9zcGFjaW5nPTMsXG4iCiAgICAiICAgICAgICAgICAgcGFkZGluZz00MCxcbiIKICAgICIgICAgICAgICAgICBiYWNrZ3JvdW5kX2NvbG9yPSgwLCAwLCAwKSxcbiIKICAgICIgICAgICAgICAgICBncmlkX2NvbG9yPSgyMCwgMjAsIDIwKSxcbiIKICAgICIgICAgICAgICAgICBlbmVteV9jb2xvcnM9ezE6ICg2MCw2MCw2MCksIDI6ICgxMTAsMTEwLDExMCksIDM6ICgxNzAsMTcwLDE3MCksIDQ6ICgyMzAsMjMwLDIzMCl9LFxuIgogICAgIiAgICAgICAgICAgIHNoaXBfY29sb3I9KDI1NSwgMjU1LCAyNTUpLFxuIgogICAgIiAgICAgICAgICAgIGJ1bGxldF9jb2xvcj0oMjAwLCAyMDAsIDIwMCksXG4iCiAgICAiICAgICAgICApXG4iCikKCnBhdGggPSBwYXRobGliLlBhdGgocmMuX19maWxlX18pCnBhdGgud3JpdGVfdGV4dChORVdfU1JDKQpwcmludCgiUGF0Y2hlZDoiLCBwYXRoKQo=" | base64 -d | python3
 
       - name: Generate game GIF
         env:
@@ -86,13 +41,10 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add game.gif
-
           COMMIT_MSG="Update space shooter game GIF"
           LAST_MSG=$(git log -1 --pretty=%s 2>/dev/null || echo "")
           LAST_FILES=$(git log -1 --name-only --pretty=format: 2>/dev/null | grep -v '^$' || echo "")
-
           if [ "$LAST_MSG" = "$COMMIT_MSG" ] && [ "$LAST_FILES" = "game.gif" ]; then
-            echo "Amending previous commit"
             git commit --amend --no-edit
             git push --force-with-lease
           else
