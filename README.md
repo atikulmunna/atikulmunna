@@ -1,35 +1,62 @@
-![My GitHub Game](./game.gif)
+
+
+
+
+
+
+
+
+
+
 
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=20&duration=3000&pause=1000&color=4C52D4&center=true&vCenter=true&width=435&height=33&lines=learning...;exploring...;experimenting..." alt="Typing SVG" />
+  <img src="./game.gif" alt="Space Shooter Game" width="100%" />
 </div>
 
-<h2 align="center">ML/DL | Computer Vision | Edge AI</h2>
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=7C83FF&center=true&vCenter=true&width=500&height=40&lines=learning...;exploring...;experimenting..." alt="Typing SVG" />
+</div>
 
 <p align="center">
+  <b>ML/DL • Computer Vision • Edge AI • Robotics</b>
+</p>
+
+
+<p align="center">
+  <a href="https://aimunna.me/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://linkedin.com/in/aimunna" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:aimunna@proton.me">
+    <img src="https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://discord.gg/WhGUME8YGd" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="https://www.reddit.com/u/atlantisRenatus/s/JWcwggFCEy" target="_blank">
-  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
-</a>
-  <a href="mailto:atikulxmunna@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
 </p>
 
----
 
 
-- 💼 Portfolio: **[aimunna.me](https://aimunna.me/)**
-- 📫 Reach me: **aimunna@proton.me**
 
----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### 🛠️ Tech Stack
 
