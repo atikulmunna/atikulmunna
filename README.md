@@ -1,137 +1,134 @@
+<!-- SPACE SHOOTER — auto-updated daily via GitHub Actions -->
 <div align="center">
-  <img src="./game.gif" alt="Space Shooter Game" width="100%" />
+  <img src="./game.gif" alt="GitHub Contributions as Space Shooter" width="100%" />
+</div>
+
+<!-- Setup: add czl9707/gh-space-shooter Action to .github/workflows/update-game.yml -->
+<!-- See: https://github.com/czl9707/gh-space-shooter -->
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,111111,100,ffffff&height=120&section=header&text=atikulmunna&fontSize=34&fontAlignY=50&fontColor=ffffff&desc=learning%20%E2%80%A2%20exploring%20%E2%80%A2%20experimenting&descAlignY=72&descSize=13&fontFamily=JetBrains%20Mono" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=7C83FF&center=true&vCenter=true&width=500&height=40&lines=learning...;exploring...;experimenting..." alt="Typing SVG" />
+  <a href="https://aimunna.me/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=ffffff&color=000000" alt="Portfolio"/>
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/aimunna" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=ffffff&color=000000" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="mailto:aimunna@proton.me">
+    <img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=protonmail&logoColor=ffffff&color=000000" alt="Email"/>
+  </a>&nbsp;
+  <a href="https://discord.gg/WhGUME8YGd" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-000000?style=flat-square&logo=discord&logoColor=ffffff&color=000000" alt="Discord"/>
+  </a>
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=440&height=24&lines=ML+%2F+DL+%E2%80%A2+Computer+Vision+%E2%80%A2+Edge+AI+%E2%80%A2+Robotics" alt="Focus areas" />
+</div>
+
+<br/>
+
 ---
 
-<p align="center">
-  <b>ML/DL • Computer Vision • Edge AI • Robotics</b>
-</p>
+### `~/tech-stack`
 
----
+<br/>
 
-
-
-<p align="center">
-  <a href="https://aimunna.me/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://linkedin.com/in/aimunna" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:aimunna@proton.me">
-    <img src="https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://discord.gg/WhGUME8YGd" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### 🛠️ Tech Stack
-
-<table width="100%">
+<table align="center" width="88%">
   <tr>
-    <td align="center" width="20%"><b>Category</b></td>
-    <td align="center"><b>Technology</b></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Languages</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=python,typescript,kotlin,c,dart" />
+    <td align="right" width="22%"><sub><b>LANGUAGES</b></sub></td>
+    <td>
+      <kbd>Python</kbd>&nbsp;
+      <kbd>TypeScript</kbd>&nbsp;
+      <kbd>Kotlin</kbd>&nbsp;
+      <kbd>C</kbd>&nbsp;
+      <kbd>Dart</kbd>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>AI, ML & CV</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-      <img src="./assets/gradio.png" alt="gradio" width="40" height="40"/>
-    </td>
-  </tr>
-   <tr>
-    <td align="center"><b>Database</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql,postgresql,prisma,firebase,redis" />
-      <img src="./assets/qdrant.png" alt="qdrant" width="40" height="40"/>
-      <img src="./assets/neo4j.png" alt="db" width="40" height="40"/>
+    <td align="right"><sub><b>AI · ML · CV</b></sub></td>
+    <td>
+      <kbd>PyTorch</kbd>&nbsp;
+      <kbd>TensorFlow</kbd>&nbsp;
+      <kbd>Gradio</kbd>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Robotics & Engineering</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
-      <img src="./assets/MuJoCo.jpg" alt="mujoco" width="100" height="40"/>
-      <img src="./assets/onshape.png" alt="onshape" width="40" height="40"/>
-      <img src="./assets/autocad-seeklogo.png" alt="autocad" width="40" height="40"/>
-      <img src="./assets/Pygame_logo.svg.png" alt="pygame" width="100" height="40"/>
+    <td align="right"><sub><b>DATABASES</b></sub></td>
+    <td>
+      <kbd>PostgreSQL</kbd>&nbsp;
+      <kbd>MySQL</kbd>&nbsp;
+      <kbd>Redis</kbd>&nbsp;
+      <kbd>Firebase</kbd>&nbsp;
+      <kbd>Qdrant</kbd>&nbsp;
+      <kbd>Neo4j</kbd>&nbsp;
+      <kbd>Prisma</kbd>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Backend, DevOps & Tools</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=fastapi,prometheus,grafana,flutter,git,docker,bash" />
+    <td align="right"><sub><b>ROBOTICS</b></sub></td>
+    <td>
+      <kbd>Arduino</kbd>&nbsp;
+      <kbd>Raspberry Pi</kbd>&nbsp;
+      <kbd>MuJoCo</kbd>&nbsp;
+      <kbd>OnShape</kbd>&nbsp;
+      <kbd>AutoCAD</kbd>&nbsp;
+      <kbd>Pygame</kbd>
     </td>
   </tr>
-
-  
+  <tr>
+    <td align="right"><sub><b>BACKEND · DEVOPS</b></sub></td>
+    <td>
+      <kbd>FastAPI</kbd>&nbsp;
+      <kbd>Docker</kbd>&nbsp;
+      <kbd>Prometheus</kbd>&nbsp;
+      <kbd>Grafana</kbd>&nbsp;
+      <kbd>Flutter</kbd>&nbsp;
+      <kbd>Git</kbd>&nbsp;
+      <kbd>Bash</kbd>
+    </td>
+  </tr>
 </table>
 
----
-<!--
-### 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-five-nu-87.vercel.app/api?username=atikulmunna&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats-five-nu-87.vercel.app/api/top-langs/?username=atikulmunna&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8&hide=html,css"/>
-</div>
-
-<!-- 
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atikulmunna&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph"/>
-</div>
-
-
+<br/>
 
 ---
- 
-### 🐍 Contribution Snake
+
+### `~/stats`
+
+<br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atikulmunna/atikulmunna/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atikulmunna/atikulmunna/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
+  <img height="160em" src="https://github-readme-stats-five-nu-87.vercel.app/api?username=atikulmunna&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=aaaaaa&text_color=cccccc"/>
+  &nbsp;
+  <img height="160em" src="https://github-readme-stats-five-nu-87.vercel.app/api/top-langs/?username=atikulmunna&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc&langs_count=8&hide=html,css"/>
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atikulmunna&hide_border=true&bg_color=000000&color=ffffff&line=888888&point=ffffff" alt="Contribution Graph" width="88%"/>
+</div>
+
+<br/>
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <sub><code>// always building, always shipping</code></sub>
 </div>
 
+<br/>
 
--->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,ffffff,100,111111&height=80&section=footer" width="100%"/>
+</div>
