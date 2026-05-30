@@ -9,12 +9,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,111111,100,ffffff&height=120&section=header&text=atikulmunna&fontSize=34&fontAlignY=50&fontColor=ffffff&desc=learning%20%E2%80%A2%20exploring%20%E2%80%A2%20experimenting&descAlignY=72&descSize=13&fontFamily=JetBrains%20Mono" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
   <a href="https://aimunna.me/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=ffffff&color=000000" alt="Portfolio"/>
   </a>&nbsp;
@@ -32,7 +26,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=440&height=24&lines=ML+%2F+DL+%E2%80%A2+Computer+Vision+%E2%80%A2+Edge+AI+%E2%80%A2+Robotics" alt="Focus areas" />
+  <b>ML / DL &nbsp;•&nbsp; Computer Vision &nbsp;•&nbsp; Edge AI &nbsp;•&nbsp; Robotics</b>
 </div>
 
 <br/>
@@ -51,14 +45,20 @@
       <kbd>TypeScript</kbd>&nbsp;
       <kbd>Kotlin</kbd>&nbsp;
       <kbd>C</kbd>&nbsp;
-      <kbd>Dart</kbd>
+      <kbd>Go</kbd>
     </td>
   </tr>
   <tr>
     <td align="right"><sub><b>AI · ML · CV</b></sub></td>
     <td>
       <kbd>PyTorch</kbd>&nbsp;
-      <kbd>TensorFlow</kbd>&nbsp;
+      <kbd>Hugging Face</kbd>&nbsp;
+      <kbd>LangChain</kbd>&nbsp;
+      <kbd>LangGraph</kbd>&nbsp;
+      <kbd>YOLO</kbd>&nbsp;
+      <kbd>ViT</kbd>&nbsp;
+      <kbd>MediaPipe</kbd>&nbsp;
+      <kbd>ONNX</kbd>&nbsp;
       <kbd>Gradio</kbd>
     </td>
   </tr>
@@ -66,9 +66,7 @@
     <td align="right"><sub><b>DATABASES</b></sub></td>
     <td>
       <kbd>PostgreSQL</kbd>&nbsp;
-      <kbd>MySQL</kbd>&nbsp;
       <kbd>Redis</kbd>&nbsp;
-      <kbd>Firebase</kbd>&nbsp;
       <kbd>Qdrant</kbd>&nbsp;
       <kbd>Neo4j</kbd>&nbsp;
       <kbd>Prisma</kbd>
@@ -79,22 +77,32 @@
     <td>
       <kbd>Arduino</kbd>&nbsp;
       <kbd>Raspberry Pi</kbd>&nbsp;
-      <kbd>MuJoCo</kbd>&nbsp;
-      <kbd>OnShape</kbd>&nbsp;
-      <kbd>AutoCAD</kbd>&nbsp;
-      <kbd>Pygame</kbd>
+      <kbd>MuJoCo</kbd>
     </td>
   </tr>
   <tr>
     <td align="right"><sub><b>BACKEND · DEVOPS</b></sub></td>
     <td>
       <kbd>FastAPI</kbd>&nbsp;
+      <kbd>Node.js</kbd>&nbsp;
+      <kbd>Express</kbd>&nbsp;
+      <kbd>Kafka</kbd>&nbsp;
+      <kbd>AWS S3</kbd>&nbsp;
+      <kbd>Cloudflare R2</kbd>&nbsp;
       <kbd>Docker</kbd>&nbsp;
       <kbd>Prometheus</kbd>&nbsp;
       <kbd>Grafana</kbd>&nbsp;
-      <kbd>Flutter</kbd>&nbsp;
-      <kbd>Git</kbd>&nbsp;
-      <kbd>Bash</kbd>
+      <kbd>Git</kbd>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>FRONTEND</b></sub></td>
+    <td>
+      <kbd>React</kbd>&nbsp;
+      <kbd>Next.js</kbd>&nbsp;
+      <kbd>Streamlit</kbd>&nbsp;
+      <kbd>Vite</kbd>&nbsp;
+      <kbd>Tailwind CSS</kbd>
     </td>
   </tr>
 </table>
@@ -121,14 +129,10 @@
 
 <br/>
 
----
+
 
 <div align="center">
-  <sub><code>// always building, always shipping</code></sub>
+  <sub><code>// end-to-end or nothing </code></sub>
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,ffffff,100,111111&height=80&section=footer" width="100%"/>
-</div>
