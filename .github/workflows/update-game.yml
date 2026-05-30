@@ -16,9 +16,86 @@ jobs:
         with:
           fetch-depth: 2    # Required for commit-amend behavior
 
-      - uses: czl9707/gh-space-shooter@v2
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          output-path: 'game.gif'
-          strategy: 'random'
-          fps: 40
+          python-version: '3.12'
+
+      - name: Install gh-space-shooter
+        run: pip install gh-space-shooter
+
+      - name: Patch colors to black & white theme
+        run: |
+          python - <<'PYEOF'
+          import gh_space_shooter.game.render_context as rc
+          import inspect, pathlib, textwrap
+
+          path = pathlib.Path(rc.__file__)
+          src = path.read_text()
+
+          old = textwrap.dedent("""
+              @staticmethod
+              def darkmode() -> \"RenderContext\":
+                  \"\"\"Predefined dark mode rendering context.\"\"\"
+                  return RenderContext(
+                      cell_size=12,
+                      cell_spacing=3,
+                      padding=40,
+                      background_color=(13, 17, 23),
+                      grid_color=(22, 27, 34),
+                      enemy_colors={1: (0, 109, 50), 2: (38, 166, 65), 3: (57, 211, 83), 4: (87, 242, 135)},
+                      ship_color=(68, 147, 248),
+                      bullet_color=(255, 223, 0),
+                  )
+          """).strip()
+
+          new = textwrap.dedent("""
+              @staticmethod
+              def darkmode() -> \"RenderContext\":
+                  \"\"\"Black and white theme.\"\"\"
+                  return RenderContext(
+                      cell_size=12,
+                      cell_spacing=3,
+                      padding=40,
+                      background_color=(0, 0, 0),
+                      grid_color=(20, 20, 20),
+                      enemy_colors={1: (60, 60, 60), 2: (110, 110, 110), 3: (170, 170, 170), 4: (230, 230, 230)},
+                      ship_color=(255, 255, 255),
+                      bullet_color=(200, 200, 200),
+                  )
+          """).strip()
+
+          if old not in src:
+              print("WARNING: Could not find original darkmode() — skipping patch")
+          else:
+              path.write_text(src.replace(old, new))
+              print("Patched render_context.py to black & white theme")
+          PYEOF
+
+      - name: Generate game GIF
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh-space-shooter ${{ github.repository_owner }} \
+            --output game.gif \
+            --strategy random \
+            --fps 40
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add game.gif
+
+          COMMIT_MSG="Update space shooter game GIF"
+          LAST_MSG=$(git log -1 --pretty=%s 2>/dev/null || echo "")
+          LAST_FILES=$(git log -1 --name-only --pretty=format: 2>/dev/null | grep -v '^$' || echo "")
+
+          if [ "$LAST_MSG" = "$COMMIT_MSG" ] && [ "$LAST_FILES" = "game.gif" ]; then
+            echo "Amending previous commit"
+            git commit --amend --no-edit
+            git push --force-with-lease
+          else
+            git diff --staged --quiet || git commit -m "$COMMIT_MSG"
+            git push
+          fi
