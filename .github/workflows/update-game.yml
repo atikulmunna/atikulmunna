@@ -27,9 +27,6 @@ jobs:
       - name: Patch to black and white theme
         run: |
           echo "aW1wb3J0IGdoX3NwYWNlX3Nob290ZXIuZ2FtZS5yZW5kZXJfY29udGV4dCBhcyByYwppbXBvcnQgcGF0aGxpYgoKcGF0aCA9IHBhdGhsaWIuUGF0aChyYy5fX2ZpbGVfXykKc3JjID0gcGF0aC5yZWFkX3RleHQoKQpzcmMgPSBzcmMucmVwbGFjZSgiYmFja2dyb3VuZF9jb2xvcj0oMCwgMCwgMCkiLCAiYmFja2dyb3VuZF9jb2xvcj0oMTMsIDE3LCAyMykiKQpzcmMgPSBzcmMucmVwbGFjZSgiYmFja2dyb3VuZF9jb2xvcj0oMTMsIDE3LCAyMyksIiwgImJhY2tncm91bmRfY29sb3I9KDEzLCAxNywgMjMpLCIpCnBhdGgud3JpdGVfdGV4dChzcmMpCgppbXBvcnQgaW1wb3J0bGliLCBzeXMKZGVsIHN5cy5tb2R1bGVzWydnaF9zcGFjZV9zaG9vdGVyLmdhbWUucmVuZGVyX2NvbnRleHQnXQppbXBvcnQgZ2hfc3BhY2Vfc2hvb3Rlci5nYW1lLnJlbmRlcl9jb250ZXh0IGFzIHJjMgpjdHggPSByYzIuUmVuZGVyQ29udGV4dC5kYXJrbW9kZSgpCnByaW50KCJiYWNrZ3JvdW5kX2NvbG9yOiIsIGN0eC5iYWNrZ3JvdW5kX2NvbG9yKQpwcmludCgiUGF0Y2hlZDoiLCBwYXRoKQo=" | base64 -d | python3
-          find /usr/local/lib/python3.12/dist-packages/gh_space_shooter -name "*.pyc" -delete
-          find /usr/local/lib/python3.12/dist-packages/gh_space_shooter -name "__pycache__" -type d -exec rm -rf {} + 2>/dev/null || true
-          echo "Cache cleared"
 
       - name: Generate game GIF
         env:
