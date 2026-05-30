@@ -26,7 +26,7 @@
 <br/>
 
 <div align="center">
-  <b>ML / DL &nbsp;•&nbsp; Computer Vision &nbsp;•&nbsp; Edge AI &nbsp;•&nbsp; Robotics</b>
+  <b>ML / DL &nbsp;•&nbsp; Computer Vision &nbsp;•&nbsp; Edge AI </b>
 </div>
 
 <br/>
