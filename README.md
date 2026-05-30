@@ -132,7 +132,7 @@
 
 
 <div align="center">
-  <sub><code>// end-to-end or nothing </code></sub>
+  <sub><code>// impossible is nothing </code></sub>
 </div>
 
 <br/>
