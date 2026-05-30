@@ -1,16 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div align="center">
   <img src="./game.gif" alt="Space Shooter Game" width="100%" />
 </div>
@@ -21,9 +8,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=7C83FF&center=true&vCenter=true&width=500&height=40&lines=learning...;exploring...;experimenting..." alt="Typing SVG" />
 </div>
 
+---
+
 <p align="center">
   <b>ML/DL • Computer Vision • Edge AI • Robotics</b>
 </p>
+
+---
+
 
 
 <p align="center">
