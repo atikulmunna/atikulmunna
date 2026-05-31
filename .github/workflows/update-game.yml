@@ -17,8 +17,8 @@ jobs:
       - name: Install gh-space-shooter
         run: pip install gh-space-shooter --break-system-packages
 
-      - name: Patch to GitHub dark background
-        run: echo "aW1wb3J0IGdoX3NwYWNlX3Nob290ZXIuZ2FtZS5yZW5kZXJfY29udGV4dCBhcyByYywgcGF0aGxpYgpwYXRoID0gcGF0aGxpYi5QYXRoKHJjLl9fZmlsZV9fKQpzcmMgPSBwYXRoLnJlYWRfdGV4dCgpCnNyYyA9IHNyYy5yZXBsYWNlKCdiYWNrZ3JvdW5kX2NvbG9yPSgwLCAwLCAwKScsICdiYWNrZ3JvdW5kX2NvbG9yPSgxMywgMTcsIDIzKScpCnNyYyA9IHNyYy5yZXBsYWNlKCdncmlkX2NvbG9yPSgyMCwgMjAsIDIwKScsICdncmlkX2NvbG9yPSgyMiwgMjcsIDM0KScpCnBhdGgud3JpdGVfdGV4dChzcmMpCnByaW50KCdQYXRjaGVkOicsIHBhdGgpCg==" | base64 -d | python3
+      - name: Patch to black and white theme
+        run: echo "aW1wb3J0IGdoX3NwYWNlX3Nob290ZXIuZ2FtZS5yZW5kZXJfY29udGV4dCBhcyByYywgcGF0aGxpYgpwYXRoID0gcGF0aGxpYi5QYXRoKHJjLl9fZmlsZV9fKQpzcmMgPSBwYXRoLnJlYWRfdGV4dCgpCnNyYyA9IHNyYy5yZXBsYWNlKCdlbmVteV9jb2xvcnM9ezE6ICgwLCAxMDksIDUwKSwgMjogKDM4LCAxNjYsIDY1KSwgMzogKDU3LCAyMTEsIDgzKSwgNDogKDg3LCAyNDIsIDEzNSl9JywgJ2VuZW15X2NvbG9ycz17MTogKDYwLCA2MCwgNjApLCAyOiAoMTEwLCAxMTAsIDExMCksIDM6ICgxNzAsIDE3MCwgMTcwKSwgNDogKDIzMCwgMjMwLCAyMzApfScpCnNyYyA9IHNyYy5yZXBsYWNlKCdzaGlwX2NvbG9yPSg2OCwgMTQ3LCAyNDgpJywgJ3NoaXBfY29sb3I9KDI1NSwgMjU1LCAyNTUpJykKc3JjID0gc3JjLnJlcGxhY2UoJ2J1bGxldF9jb2xvcj0oMjU1LCAyMjMsIDApJywgJ2J1bGxldF9jb2xvcj0oMjAwLCAyMDAsIDIwMCknKQpwYXRoLndyaXRlX3RleHQoc3JjKQpwcmludCgnUGF0Y2hlZDonLCBwYXRoKQo=" | base64 -d | python3
 
       - name: Generate game GIF
         env:
