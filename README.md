@@ -109,25 +109,8 @@
 
 <br/>
 
----
 
-### `~/stats`
 
-<br/>
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats-five-nu-87.vercel.app/api?username=atikulmunna&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=aaaaaa&text_color=cccccc"/>
-  &nbsp;
-  <img height="160em" src="https://github-readme-stats-five-nu-87.vercel.app/api/top-langs/?username=atikulmunna&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc&langs_count=8&hide=html,css"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atikulmunna&hide_border=true&bg_color=000000&color=ffffff&line=888888&point=ffffff" alt="Contribution Graph" width="88%"/>
-</div>
-
-<br/>
 
 
 
