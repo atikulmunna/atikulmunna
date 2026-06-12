@@ -2,14 +2,14 @@
 <style>
   .label { fill:#1f2328; font-weight:700; letter-spacing:2px; }
   .bar   { fill:#1f2328; }
-  .pill  { fill:none; stroke:#d0d7de; }
-  .pilltx{ fill:#24292f; }
+  .pill  { fill:#f3f4f6; stroke:#d0d7de; }
+  .pilltx{ fill:#1f2328; }
   .dot   { fill:#1f2328; opacity:.10; }
   @media (prefers-color-scheme: dark) {
     .label { fill:#f0f6fc; }
     .bar   { fill:#f0f6fc; }
-    .pill  { stroke:#30363d; }
-    .pilltx{ fill:#c9d1d9; }
+    .pill  { fill:#21262d; stroke:#30363d; }
+    .pilltx{ fill:#e6edf3; }
     .dot   { fill:#f0f6fc; opacity:.10; }
   }
 </style>
