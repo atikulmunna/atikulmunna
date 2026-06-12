@@ -27,26 +27,24 @@ STACK = [
     ("FRONTEND",         ["react", "next.js", "streamlit", "vite", "tailwind css"]),
 ]
 
-# Compact viewBox + larger fonts so text stays legible when the SVG is scaled
-# down to fit a narrow mobile README column.
-W = 680
-PAD_L = 20
-PAD_T = 24
-PAD_B = 24
+W = 1000
+PAD_L = 24
+PAD_T = 26
+PAD_B = 26
 
-LABEL_X = PAD_L + 12          # text start (after accent bar)
-LABEL_W = 180                 # reserved width for the label column
+LABEL_X = PAD_L + 14          # text start (after accent bar)
+LABEL_W = 196                 # reserved width for the label column
 PILLS_X = PAD_L + LABEL_W     # pills start here
-PILLS_MAX = W - 20            # right edge for pills
+PILLS_MAX = W - 24            # right edge for pills
 
-PILL_H = 34
-PILL_RX = 9
-PILL_PAD_X = 13
-PILL_GAP = 8
-LINE_GAP = 9
+PILL_H = 30
+PILL_RX = 8
+PILL_PAD_X = 14
+PILL_GAP = 9
+LINE_GAP = 10
 ROW_GAP = 16
 
-FS_PILL = 16
+FS_PILL = 14
 FS_LABEL = 13
 CHAR_W = FS_PILL * 0.60       # monospace advance estimate
 FONT = ("ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, "
