@@ -23,8 +23,7 @@ STACK = [
     ("DATABASES",        ["postgresql", "redis", "qdrant", "neo4j"]),
     ("ROBOTICS",         ["arduino", "raspberry pi", "mujoco"]),
     ("BACKEND · DEVOPS", ["fastapi", "node.js", "express", "prisma", "kafka",
-                          "aws s3", "cloudflare r2", "docker", "vercel", "railway",
-                          "prometheus", "grafana"]),
+                          "aws s3", "docker", "vercel", "prometheus", "grafana"]),
     ("FRONTEND",         ["react", "next.js", "streamlit", "vite", "tailwind css"]),
 ]
 
