@@ -52,7 +52,6 @@ def build():
   .sig   { fill:#0b0b0b; }
   .dust  { fill:#0b0b0b; }
   .node  { fill:#ffffff; stroke:#0b0b0b; stroke-width:1.4; }
-  .flash { fill:#111111; }
   @media (prefers-color-scheme: dark) {
     .ink   { stroke:#ffffff; }
     .inkf  { fill:#ffffff; }
@@ -60,18 +59,8 @@ def build():
     .sig   { fill:#ffffff; }
     .dust  { fill:#ffffff; }
     .node  { fill:#0b0b0b; stroke:#ffffff; }
-    .flash { fill:#ffffff; }
   }
 </style>""")
-
-    # --- soft glow filter for the node flashes ---
-    parts.append(
-        '<defs>'
-        '<filter id="glow" x="-200%" y="-200%" width="500%" height="500%">'
-        '<feGaussianBlur stdDeviation="4.5"/>'
-        '</filter>'
-        '</defs>'
-    )
 
     # --- background particle field (twinkle + drift) ---
     parts.append('<g>')
@@ -119,31 +108,24 @@ def build():
         )
     parts.append('</g>')
 
-    # --- nodes: bright blurred white flash, then a crisp core on top ---
+    # --- nodes (pulsing) ---
     parts.append('<g>')
     for layer in layers:
         for (x, y) in layer:
             r = 6.0
-            dur = random.uniform(1.8, 3.2)
-            beg = random.uniform(0, dur)
-            # blurred bloom that punches bright then decays — the eye-catcher
-            parts.append(
-                f'<circle class="flash" cx="{x:.1f}" cy="{y:.1f}" r="{r}" '
-                f'filter="url(#glow)" opacity="0">'
-                f'<animate attributeName="opacity" values="0;1;0.55;0" '
-                f'keyTimes="0;0.08;0.35;1" calcMode="spline" '
-                f'keySplines="0.1 0.8 0.2 1;0.4 0 0.6 1;0.4 0 0.6 1" '
-                f'dur="{dur:.2f}s" begin="{beg:.2f}s" repeatCount="indefinite"/>'
-                f'<animate attributeName="r" values="{r+1};{r+11};{r+4}" '
-                f'keyTimes="0;0.08;1" dur="{dur:.2f}s" begin="{beg:.2f}s" '
-                f'repeatCount="indefinite"/>'
-                f'</circle>'
-            )
-            # crisp node core sitting on top of the glow
+            dur = random.uniform(2.2, 4.0)
+            beg = random.uniform(0, 3.0)
             parts.append(
                 f'<circle class="node" cx="{x:.1f}" cy="{y:.1f}" r="{r}">'
-                f'<animate attributeName="r" values="{r};{r+1.6};{r}" '
-                f'dur="{dur:.2f}s" begin="{beg:.2f}s" repeatCount="indefinite"/>'
+                f'<animate attributeName="r" values="{r};{r+2.2};{r}" dur="{dur:.2f}s" '
+                f'begin="{beg:.2f}s" repeatCount="indefinite"/>'
+                f'</circle>'
+                # faint expanding halo
+                f'<circle class="inkf" cx="{x:.1f}" cy="{y:.1f}" r="{r}" opacity="0">'
+                f'<animate attributeName="r" values="{r};{r+10}" dur="{dur:.2f}s" '
+                f'begin="{beg:.2f}s" repeatCount="indefinite"/>'
+                f'<animate attributeName="opacity" values="0.25;0" dur="{dur:.2f}s" '
+                f'begin="{beg:.2f}s" repeatCount="indefinite"/>'
                 f'</circle>'
             )
     parts.append('</g>')
