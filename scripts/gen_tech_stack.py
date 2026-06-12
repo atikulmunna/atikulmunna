@@ -18,11 +18,12 @@ random.seed(11)
 STACK = [
     ("LANGUAGES",        ["python", "typescript", "kotlin", "c", "go"]),
     ("AI · ML · CV",     ["pytorch", "hugging face", "langchain", "langgraph",
-                          "yolo", "vit", "mediapipe", "onnx", "gradio"]),
+                          "yolo", "ultralytics", "vit", "mediapipe", "onnx", "gradio"]),
     ("DATABASES",        ["postgresql", "redis", "qdrant", "neo4j", "prisma"]),
     ("ROBOTICS",         ["arduino", "raspberry pi", "mujoco"]),
     ("BACKEND · DEVOPS", ["fastapi", "node.js", "express", "kafka", "aws s3",
-                          "cloudflare r2", "docker", "prometheus", "grafana", "git"]),
+                          "cloudflare r2", "docker", "vercel", "railway",
+                          "prometheus", "grafana", "git"]),
     ("FRONTEND",         ["react", "next.js", "streamlit", "vite", "tailwind css"]),
 ]
 
