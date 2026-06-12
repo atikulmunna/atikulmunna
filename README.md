@@ -5,16 +5,6 @@
 
 <br/>
 
-<!-- SPACE SHOOTER — auto-updated daily via GitHub Actions -->
-<div align="center">
-  <img src="./game.gif" alt="GitHub Contributions as Space Shooter" width="100%" />
-</div>
-
-<!-- Setup: add czl9707/gh-space-shooter Action to .github/workflows/update-game.yml -->
-<!-- See: https://github.com/czl9707/gh-space-shooter -->
-
-<br/>
-
 <div align="center">
   <a href="https://aimunna.me/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=ffffff&color=000000" alt="Portfolio"/>
@@ -116,29 +106,13 @@
 
 <br/>
 
-
-
-
-
-
 ---
 
-### `~/contributions`
-
-<!-- ASCII-HEATMAP:START -->
-<pre>
-    Jun Jul Aug  Sep Oct Nov  Dec Jan Feb Mar  Apr May   
-    ·················░······▒░·······░░░·░░░·▒·░▓░░··░▒▓░
-Mon ·················░···░··░░··········░▓░░░░░░░░░░▒·░░░
-    ····················░░··░░···░····░·░░▒░░·▒▒░··░░·▒▒·
-Wed ························░·······░···░▒░░░░█░░··▒·▒░░░
-    ························░···░·······░░░░·░░░░░░▓░░░░░
-Fri ···············░░·········░·░····░░·░░░·░░·░░░░·░░░░█
-    ················▒·······░······░··░·░▒▒·▒░░░▒░░·░░▒░ 
-
-    less ·░▒▓█ more      1,365 contributions in the last year
-</pre>
-<!-- ASCII-HEATMAP:END -->
+<!-- SPACE SHOOTER — contribution graph, auto-updated daily via GitHub Actions -->
+<!-- Setup: czl9707/gh-space-shooter — .github/workflows/update-game.yml -->
+<div align="center">
+  <img src="./game.gif" alt="GitHub Contributions as Space Shooter" width="100%" />
+</div>
 
 <br/>
 
