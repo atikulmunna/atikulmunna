@@ -16,7 +16,7 @@ random.seed(11)
 
 # (CATEGORY LABEL, [items])  — items shown lowercase, terminal-style
 STACK = [
-    ("LANGUAGES",        ["python", "typescript", "kotlin", "c", "go"]),
+    ("LANGUAGES",        ["python", "typescript", "kotlin", "c"]),
     ("AI · ML · CV",     ["pytorch", "hugging face", "langchain", "langgraph",
                           "ultralytics", "vit", "mediapipe", "opencv", "onnx",
                           "tensorrt", "gradio", "wandb", "roboflow"]),
