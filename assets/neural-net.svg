@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 240" width="100%" role="img" aria-label="Animated neural network">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 240" width="100%" role="img" aria-label="Animated neural network by @atikulmunna">
+<!-- Source & credit: github.com/atikulmunna — do not reuse without attribution. --><metadata>Created by @atikulmunna (github.com/atikulmunna). All rights reserved.</metadata><title>@atikulmunna</title>
 <style>
   .ink   { stroke:#0b0b0b; }
   .inkf  { fill:#0b0b0b; }
@@ -195,4 +196,5 @@
 <circle class="node" cx="880.0" cy="140.0" r="6.0"><animate attributeName="r" values="6.0;8.2;6.0" dur="2.59s" begin="0.55s" repeatCount="indefinite"/></circle><circle class="inkf" cx="880.0" cy="140.0" r="6.0" opacity="0"><animate attributeName="r" values="6.0;16.0" dur="2.59s" begin="0.55s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.25;0" dur="2.59s" begin="0.55s" repeatCount="indefinite"/></circle>
 <circle class="node" cx="880.0" cy="180.0" r="6.0"><animate attributeName="r" values="6.0;8.2;6.0" dur="2.80s" begin="0.25s" repeatCount="indefinite"/></circle><circle class="inkf" cx="880.0" cy="180.0" r="6.0" opacity="0"><animate attributeName="r" values="6.0;16.0" dur="2.80s" begin="0.25s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.25;0" dur="2.80s" begin="0.25s" repeatCount="indefinite"/></circle>
 </g>
+<text class="inkf" x="986" y="228" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" opacity="0.30" letter-spacing="0.5">@atikulmunna</text>
 </svg>

@@ -14,6 +14,15 @@ import random
 
 random.seed(11)
 
+USERNAME = "atikulmunna"
+SIGNATURE = (
+    f"<!-- Source & credit: github.com/{USERNAME} — "
+    f"do not reuse without attribution. -->"
+    f'<metadata>Created by @{USERNAME} (github.com/{USERNAME}). '
+    f"All rights reserved.</metadata>"
+    f"<title>@{USERNAME}</title>"
+)
+
 # (CATEGORY LABEL, [items])  — items shown lowercase, terminal-style
 STACK = [
     ("LANGUAGES",        ["python", "typescript", "kotlin", "c"]),
@@ -60,8 +69,9 @@ def build():
     out.append(
         f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {{H}}" '
         f'width="100%" font-family="{FONT}" role="img" '
-        f'aria-label="Tech stack">'
+        f'aria-label="Tech stack by @atikulmunna">'
     )
+    out.append(SIGNATURE)
     out.append("""<style>
   .label { fill:#1f2328; font-weight:700; letter-spacing:2px; }
   .bar   { fill:#1f2328; }
@@ -122,6 +132,11 @@ def build():
 
     out.append("".join(deco))
     out.append("".join(body))
+    # visible faint signature, bottom-right
+    out.append(
+        f'<text class="dot" style="opacity:.45" x="{W-16}" y="{H-12}" '
+        f'text-anchor="end" font-size="11" letter-spacing="0.5">@{USERNAME}</text>'
+    )
     out.append("</svg>")
     return "\n".join(out).replace("{H}", str(int(H)))
 
