@@ -1,6 +1,6 @@
 <!-- DETECTION SCANNER HEADER — source private: github.com/atikulmunna/readme-src -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/detection-scanner.svg?v=44bed944" alt="Object-detection scanner" width="100%" />
+  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/detection-scanner.svg?v=07ac0cb4" alt="Object-detection scanner" width="100%" />
 </div>
 
 <br/>
