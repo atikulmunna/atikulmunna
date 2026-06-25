@@ -16,7 +16,7 @@
 
 <!-- TAGLINE — source private: github.com/atikulmunna/readme-src -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/tagline.svg?v=c560c5b7" alt="ML / DL • Computer Vision • Edge AI" height="40" />
+  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/tagline.svg?v=c560c5b7" alt="ML / DL • Computer Vision • Edge AI" width="100%" />
 </div>
 
 <br/>
