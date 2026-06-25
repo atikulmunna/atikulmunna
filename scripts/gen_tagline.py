@@ -20,6 +20,14 @@ FONT = ("ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, "
 
 PER_CHAR = 0.075          # seconds per typed character
 
+USERNAME = "atikulmunna"
+SIGNATURE = (
+    f"<!-- Source & credit: github.com/{USERNAME} — "
+    f"do not reuse without attribution. -->"
+    f'<metadata>Created by @{USERNAME} (github.com/{USERNAME}). '
+    f"All rights reserved.</metadata>"
+)
+
 
 def esc(s):
     return s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
@@ -51,6 +59,7 @@ def build():
     return f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" \
 width="{W}" height="{H}" font-family="{FONT}" role="img" \
 aria-label="{esc(PROMPT + ROLES)}">
+  {SIGNATURE}
   <style>
     .tx     {{ fill:#1f2328; font-weight:700; }}
     .prompt {{ fill:#6e7681; font-weight:700; }}

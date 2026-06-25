@@ -18,6 +18,16 @@ Y_PAD = 40
 NUM_PARTICLES = 38
 NUM_SIGNALS = 30               # animated pulses traveling along edges
 
+USERNAME = "atikulmunna"
+# Hidden provenance: metadata + comment baked into every generated SVG.
+SIGNATURE = (
+    f"<!-- Source & credit: github.com/{USERNAME} — "
+    f"do not reuse without attribution. -->"
+    f'<metadata>Created by @{USERNAME} (github.com/{USERNAME}). '
+    f"All rights reserved.</metadata>"
+    f"<title>@{USERNAME}</title>"
+)
+
 
 def layer_nodes():
     """Return list of layers, each a list of (x, y) node centers."""
@@ -41,8 +51,9 @@ def build():
     parts = []
     parts.append(
         f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" '
-        f'width="100%" role="img" aria-label="Animated neural network">'
+        f'width="100%" role="img" aria-label="Animated neural network by @atikulmunna">'
     )
+    parts.append(SIGNATURE)
 
     # --- theme-adaptive palette (works in GitHub light & dark) ---
     parts.append("""<style>
@@ -129,6 +140,13 @@ def build():
                 f'</circle>'
             )
     parts.append('</g>')
+
+    # visible faint signature woven into the art (bottom-right)
+    parts.append(
+        f'<text class="inkf" x="{W-14}" y="{H-12}" text-anchor="end" '
+        f'font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" '
+        f'font-size="11" opacity="0.30" letter-spacing="0.5">@{USERNAME}</text>'
+    )
 
     parts.append('</svg>')
     return "\n".join(parts)
