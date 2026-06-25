@@ -35,7 +35,12 @@
 
 <br/>
 
----
+<!-- DIVIDER — source private: github.com/atikulmunna/readme-src -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/divider.svg?v=ab05b448" alt="" width="100%" />
+</div>
+
+<br/>
 
 <!-- SPACE SHOOTER — contribution graph, auto-updated daily via GitHub Actions -->
 <!-- Setup: czl9707/gh-space-shooter — .github/workflows/update-game.yml -->
