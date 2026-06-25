@@ -4,14 +4,14 @@
   /* Electric Violet — AMOLED black pills, lavender text/border (both modes) */
   .label { fill:#6d28d9; font-weight:700; letter-spacing:2px; }
   .bar   { fill:#7c3aed; }
-  .pill  { fill:#050507; stroke:#3b2f63; }
+  .pill  { fill:#050507; stroke:none; }
   .pilltx{ fill:#c4b5fd; }
   .dot   { fill:#7c3aed; opacity:.12; }
   .star  { fill:#7c3aed; }
   @media (prefers-color-scheme: dark) {
     .label { fill:#c4b5fd; }
     .bar   { fill:#a78bfa; }
-    .pill  { fill:#050507; stroke:#3b2f63; }
+    .pill  { fill:#1c1730; stroke:none; }
     .pilltx{ fill:#c4b5fd; }
     .dot   { fill:#a78bfa; opacity:.12; }
     .star  { fill:#a78bfa; }
