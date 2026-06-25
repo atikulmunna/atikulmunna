@@ -6,7 +6,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/social-bar.svg?v=d1099671" width="100%" alt="socials" />
+  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/social-bar.svg?v=ba412705" width="100%" alt="socials" />
 </div>
 
 <div align="center">
