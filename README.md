@@ -1,6 +1,6 @@
 <!-- DETECTION SCANNER HEADER — source private: github.com/atikulmunna/readme-src -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/detection-scanner.svg?v=e2395091" alt="Object-detection scanner" width="100%" />
+  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/detection-scanner.svg?v=014f1cef" alt="Object-detection scanner" width="100%" />
 </div>
 
 <br/>
@@ -37,7 +37,7 @@
 
 <!-- TECH STACK — source private: github.com/atikulmunna/readme-src -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/tech-stack.svg?v=c9d9034b" alt="Tech stack" width="100%" />
+  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/tech-stack.svg?v=b18b92c1" alt="Tech stack" width="100%" />
 </div>
 
 <br/>
