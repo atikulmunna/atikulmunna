@@ -6,16 +6,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/social-bar.svg?v=ba412705" width="100%" alt="socials" />
-</div>
-
-<div align="center">
-  <sub>
-    <a href="https://aimunna.me/">portfolio</a> &nbsp;·&nbsp;
-    <a href="https://linkedin.com/in/aimunna">linkedin</a> &nbsp;·&nbsp;
-    <a href="mailto:aimunna@proton.me">email</a> &nbsp;·&nbsp;
-    <a href="https://discord.gg/WhGUME8YGd">discord</a>
-  </sub>
+  <a href="https://aimunna.me/" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/social-portfolio.svg?v=c72239f7" height="46" alt="Portfolio"/></a><a href="https://linkedin.com/in/aimunna" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/social-linkedin.svg?v=539193a1" height="46" alt="LinkedIn"/></a><a href="mailto:aimunna@proton.me"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/social-email.svg?v=44052759" height="46" alt="Email"/></a><a href="https://discord.gg/WhGUME8YGd" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/social-discord.svg?v=4e2ead9d" height="46" alt="Discord"/></a>
 </div>
 
 <br/>
