@@ -1,6 +1,6 @@
-<!-- NEURAL-NET HEADER — source private: github.com/atikulmunna/readme-src -->
+<!-- DETECTION SCANNER HEADER — source private: github.com/atikulmunna/readme-src -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/neural-net.svg?v=44b32ffb" alt="Animated neural network" width="100%" />
+  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/detection-scanner.svg?v=0a37cee6" alt="Object-detection scanner" width="100%" />
 </div>
 
 <br/>
