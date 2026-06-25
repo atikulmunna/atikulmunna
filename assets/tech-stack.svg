@@ -1,17 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 392" width="100%" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" role="img" aria-label="Tech stack by @atikulmunna">
 <!-- Source & credit: github.com/atikulmunna — do not reuse without attribution. --><metadata>Created by @atikulmunna (github.com/atikulmunna). All rights reserved.</metadata><title>@atikulmunna</title>
 <style>
-  .label { fill:#1f2328; font-weight:700; letter-spacing:2px; }
-  .bar   { fill:#1f2328; }
-  .pill  { fill:#f3f4f6; stroke:#d0d7de; }
-  .pilltx{ fill:#1f2328; }
-  .dot   { fill:#1f2328; opacity:.10; }
+  /* Electric Violet — AMOLED black pills, lavender text/border (both modes) */
+  .label { fill:#6d28d9; font-weight:700; letter-spacing:2px; }
+  .bar   { fill:#7c3aed; }
+  .pill  { fill:#050507; stroke:#3b2f63; }
+  .pilltx{ fill:#c4b5fd; }
+  .dot   { fill:#7c3aed; opacity:.12; }
   @media (prefers-color-scheme: dark) {
-    .label { fill:#f0f6fc; }
-    .bar   { fill:#f0f6fc; }
-    .pill  { fill:#21262d; stroke:#30363d; }
-    .pilltx{ fill:#e6edf3; }
-    .dot   { fill:#f0f6fc; opacity:.10; }
+    .label { fill:#c4b5fd; }
+    .bar   { fill:#a78bfa; }
+    .pill  { fill:#050507; stroke:#3b2f63; }
+    .pilltx{ fill:#c4b5fd; }
+    .dot   { fill:#a78bfa; opacity:.12; }
   }
 </style>
 <circle class="dot" cx="567" cy="218" r="1.1"/><circle class="dot" cx="930" cy="183" r="1.1"/><circle class="dot" cx="610" cy="229" r="1.1"/><circle class="dot" cx="362" cy="200" r="1.1"/><circle class="dot" cx="704" cy="306" r="1.1"/><circle class="dot" cx="292" cy="122" r="1.1"/><circle class="dot" cx="290" cy="312" r="1.1"/><circle class="dot" cx="753" cy="24" r="1.1"/><circle class="dot" cx="974" cy="371" r="1.1"/><circle class="dot" cx="722" cy="239" r="1.1"/><circle class="dot" cx="341" cy="14" r="1.1"/><circle class="dot" cx="626" cy="30" r="1.1"/><circle class="dot" cx="366" cy="99" r="1.1"/><circle class="dot" cx="243" cy="182" r="1.1"/><circle class="dot" cx="558" cy="325" r="1.1"/><circle class="dot" cx="619" cy="249" r="1.1"/><circle class="dot" cx="604" cy="257" r="1.1"/><circle class="dot" cx="571" cy="113" r="1.1"/><circle class="dot" cx="986" cy="382" r="1.1"/><circle class="dot" cx="865" cy="274" r="1.1"/><circle class="dot" cx="462" cy="94" r="1.1"/><circle class="dot" cx="442" cy="34" r="1.1"/><circle class="dot" cx="809" cy="159" r="1.1"/><circle class="dot" cx="870" cy="153" r="1.1"/><circle class="dot" cx="956" cy="327" r="1.1"/><circle class="dot" cx="220" cy="87" r="1.1"/>

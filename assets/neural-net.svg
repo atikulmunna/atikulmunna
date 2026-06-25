@@ -1,19 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 240" width="100%" role="img" aria-label="Animated neural network by @atikulmunna">
 <!-- Source & credit: github.com/atikulmunna — do not reuse without attribution. --><metadata>Created by @atikulmunna (github.com/atikulmunna). All rights reserved.</metadata><title>@atikulmunna</title>
 <style>
-  .ink   { stroke:#0b0b0b; }
-  .inkf  { fill:#0b0b0b; }
-  .edge  { stroke:#0b0b0b; stroke-width:.6; opacity:.10; }
-  .sig   { fill:#0b0b0b; }
-  .dust  { fill:#0b0b0b; }
-  .node  { fill:#ffffff; stroke:#0b0b0b; stroke-width:1.4; }
+  /* Electric Violet — lavender on AMOLED black */
+  .ink   { stroke:#6d28d9; }
+  .inkf  { fill:#6d28d9; }
+  .edge  { stroke:#7c3aed; stroke-width:.6; opacity:.18; }
+  .sig   { fill:#7c3aed; }
+  .dust  { fill:#a78bfa; }
+  .node  { fill:#ffffff; stroke:#6d28d9; stroke-width:1.4; }
   @media (prefers-color-scheme: dark) {
-    .ink   { stroke:#ffffff; }
-    .inkf  { fill:#ffffff; }
-    .edge  { stroke:#ffffff; opacity:.14; }
-    .sig   { fill:#ffffff; }
-    .dust  { fill:#ffffff; }
-    .node  { fill:#0b0b0b; stroke:#ffffff; }
+    .ink   { stroke:#c4b5fd; }
+    .inkf  { fill:#c4b5fd; }
+    .edge  { stroke:#a78bfa; opacity:.22; }
+    .sig   { fill:#c4b5fd; }
+    .dust  { fill:#a78bfa; }
+    .node  { fill:#050507; stroke:#a78bfa; }
   }
 </style>
 <g>
