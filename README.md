@@ -23,7 +23,7 @@
 
 <!-- STACK HEADING — source private: github.com/atikulmunna/readme-src -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/heading-stack.svg?v=938a609c" alt="tech_stack" width="100%" />
+  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/heading-stack.svg?v=a4392db7" alt="tech_stack" width="100%" />
 </div>
 
 <br/>
