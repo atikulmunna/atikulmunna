@@ -57,3 +57,9 @@
 </div>
 
 <br/>
+
+<div align="center">
+  <sub>© 2026 Atikul Munna · <a href="https://github.com/atikulmunna/atikulmunna/blob/main/LICENSE">CC BY-NC-ND 4.0</a> · reuse requires attribution</sub>
+</div>
+
+<br/>
