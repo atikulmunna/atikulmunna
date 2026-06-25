@@ -6,10 +6,10 @@
 <br/>
 
 <div align="center">
-  <a href="https://aimunna.me/" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/social-portfolio.svg?v=f6caf2d2" height="30" alt="Portfolio"/></a>&nbsp;
-  <a href="https://linkedin.com/in/aimunna" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/social-linkedin.svg?v=027ee970" height="30" alt="LinkedIn"/></a>&nbsp;
-  <a href="mailto:aimunna@proton.me"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/social-email.svg?v=429936d2" height="30" alt="Email"/></a>&nbsp;
-  <a href="https://discord.gg/WhGUME8YGd" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/social-discord.svg?v=851dc169" height="30" alt="Discord"/></a>
+  <a href="https://aimunna.me/" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/social-portfolio.svg?v=e0d6368f" height="30" alt="Portfolio"/></a>&nbsp;
+  <a href="https://linkedin.com/in/aimunna" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/social-linkedin.svg?v=45ffee63" height="30" alt="LinkedIn"/></a>&nbsp;
+  <a href="mailto:aimunna@proton.me"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/social-email.svg?v=564f5301" height="30" alt="Email"/></a>&nbsp;
+  <a href="https://discord.gg/WhGUME8YGd" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/social-discord.svg?v=d91bf198" height="30" alt="Discord"/></a>
 </div>
 
 <br/>
@@ -37,7 +37,7 @@
 
 <!-- DIVIDER — source private: github.com/atikulmunna/readme-src -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/divider.svg?v=ab05b448" alt="" width="100%" />
+  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/divider.svg?v=5d8acf5a" alt="" width="100%" />
 </div>
 
 <br/>
