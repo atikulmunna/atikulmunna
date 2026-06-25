@@ -1,6 +1,6 @@
 <!-- NEURAL-NET HEADER — source private: github.com/atikulmunna/readme-src -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/neural-net.svg?v=2" alt="Animated neural network" width="100%" />
+  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/neural-net.svg?v=2ea2429e" alt="Animated neural network" width="100%" />
 </div>
 
 <br/>
@@ -24,7 +24,7 @@
 
 <!-- TAGLINE — source private: github.com/atikulmunna/readme-src -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/tagline.svg?v=2" alt="ML / DL • Computer Vision • Edge AI" height="40" />
+  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/tagline.svg?v=41b729d8" alt="ML / DL • Computer Vision • Edge AI" height="40" />
 </div>
 
 <br/>
@@ -37,7 +37,7 @@
 
 <!-- TECH STACK — source private: github.com/atikulmunna/readme-src -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/tech-stack.svg?v=7" alt="Tech stack" width="100%" />
+  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/tech-stack.svg?v=b31e12cd" alt="Tech stack" width="100%" />
 </div>
 
 <br/>
