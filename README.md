@@ -6,7 +6,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://aimunna.me/" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/social-portfolio.svg?v=c8b37aff" height="46" alt="Portfolio"/></a><a href="https://linkedin.com/in/aimunna" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/social-linkedin.svg?v=8b29a90b" height="46" alt="LinkedIn"/></a><a href="mailto:aimunna@proton.me"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/social-email.svg?v=abd8f564" height="46" alt="Email"/></a><a href="https://discord.gg/WhGUME8YGd" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/social-discord.svg?v=51d21b4c" height="46" alt="Discord"/></a>
+  <a href="https://aimunna.me/" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/social-portfolio.svg?v=82936dea" height="46" alt="Portfolio"/></a><a href="https://linkedin.com/in/aimunna" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/social-linkedin.svg?v=a8487753" height="46" alt="LinkedIn"/></a><a href="mailto:aimunna@proton.me"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/social-email.svg?v=c517b805" height="46" alt="Email"/></a><a href="https://discord.gg/WhGUME8YGd" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/social-discord.svg?v=dfc3508b" height="46" alt="Discord"/></a>
 </div>
 
 <br/>
