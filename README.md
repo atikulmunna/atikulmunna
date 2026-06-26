@@ -11,30 +11,9 @@
 
 <br/>
 
-<!-- TAGLINE — source private: github.com/atikulmunna/readme-src -->
+<!-- STACK CARD (tagline + tech_stack + rain-line divider) — source private: github.com/atikulmunna/readme-src -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/tagline.svg?v=8d71abce" alt="ML / DL • Computer Vision • Edge AI" width="100%" />
-</div>
-
-<br/>
-
-<!-- STACK HEADING — source private: github.com/atikulmunna/readme-src -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/heading-stack.svg?v=a4392db7" alt="tech_stack" width="100%" />
-</div>
-
-<br/>
-
-<!-- TECH STACK — source private: github.com/atikulmunna/readme-src -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/tech-stack.svg?v=62c117f1" alt="Tech stack" width="100%" />
-</div>
-
-<br/>
-
-<!-- DIVIDER — source private: github.com/atikulmunna/readme-src -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/divider.svg?v=af32b5c1" alt="" width="100%" />
+  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/stack-card.svg?v=f4494a06" alt="ML / DL • Computer Vision • Edge AI — tech stack" width="100%" />
 </div>
 
 <br/>
