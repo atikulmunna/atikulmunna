@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 18" width="100%" role="img" aria-label="divider"><!-- @atikulmunna --><metadata>@atikulmunna</metadata><title>@atikulmunna</title><defs><linearGradient id="pg"><stop offset="0" stop-color="#a78bfa" stop-opacity="0"/><stop offset=".5" stop-color="#c4b5fd" stop-opacity=".95"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></linearGradient></defs><style>
-  .dl  { stroke:#6d28d9; opacity:.22; }
-  .cap { fill:#7c3aed; }
-  @media (prefers-color-scheme: dark) {
-    .dl  { stroke:#a78bfa; opacity:.30; }
-    .cap { fill:#a78bfa; }
-  }
-</style><line class="dl" x1="60" y1="9.0" x2="940" y2="9.0" stroke-width="1.4"/><circle class="cap" cx="60" cy="9.0" r="2"/><circle class="cap" cx="940" cy="9.0" r="2"/><rect x="420" y="7.6" width="160" height="2.8" rx="1.4" fill="url(#pg)" opacity=".7"/><circle class="cap" cx="500" cy="9.0" r="2.4"/></svg>
