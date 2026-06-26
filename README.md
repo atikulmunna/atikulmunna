@@ -1,6 +1,6 @@
-<!-- DETECTION SCANNER HEADER — source private: github.com/atikulmunna/readme-src -->
+<!-- FLAPPY HEADER — source private: github.com/atikulmunna/readme-src -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/detection-scanner.svg?v=b07fc211" alt="Object-detection scanner" width="100%" />
+  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/flappy.svg?v=cfd3cded" alt="AI/ML flappy bird" width="100%" />
 </div>
 
 <br/>
