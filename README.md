@@ -1,6 +1,6 @@
 <!-- FLAPPY HEADER — source private: github.com/atikulmunna/readme-src -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/flappy.svg?v=cfd3cded" alt="AI/ML flappy bird" width="100%" />
+  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/flappy.svg?v=cfd3cded-r2" alt="AI/ML flappy bird" width="100%" />
 </div>
 
 <br/>
