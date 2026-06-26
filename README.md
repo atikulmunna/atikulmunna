@@ -27,14 +27,14 @@
 
 <!-- TECH STACK — source private: github.com/atikulmunna/readme-src -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/tech-stack.svg?v=341edd27" alt="Tech stack" width="100%" />
+  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/tech-stack.svg?v=621e213e" alt="Tech stack" width="100%" />
 </div>
 
 <br/>
 
 <!-- DIVIDER — source private: github.com/atikulmunna/readme-src -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/divider.svg?v=5d8acf5a" alt="" width="100%" />
+  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/divider.svg?v=76d14ab2" alt="" width="100%" />
 </div>
 
 <br/>
