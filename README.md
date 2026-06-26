@@ -1,6 +1,6 @@
 <!-- FLAPPY HEADER — source private: github.com/atikulmunna/readme-src -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/flappy.svg?v=54788074" alt="AI/ML flappy bird" width="100%" />
+  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/flappy.svg?v=ae332102" alt="AI/ML flappy bird" width="100%" />
 </div>
 
 <br/>
@@ -27,14 +27,14 @@
 
 <!-- TECH STACK — source private: github.com/atikulmunna/readme-src -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/tech-stack.svg?v=341edd27" alt="Tech stack" width="100%" />
+  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/tech-stack.svg?v=fe7f05b9" alt="Tech stack" width="100%" />
 </div>
 
 <br/>
 
 <!-- DIVIDER — source private: github.com/atikulmunna/readme-src -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/divider.svg?v=5d8acf5a" alt="" width="100%" />
+  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/divider.svg?v=af32b5c1" alt="" width="100%" />
 </div>
 
 <br/>

@@ -5,4 +5,4 @@
     .dl  { stroke:#a78bfa; opacity:.30; }
     .cap { fill:#a78bfa; }
   }
-</style><line class="dl" x1="60" y1="9.0" x2="940" y2="9.0" stroke-width="1.4"/><circle class="cap" cx="60" cy="9.0" r="2"/><circle class="cap" cx="940" cy="9.0" r="2"/><rect x="-100" y="7.6" width="160" height="2.8" rx="1.4" fill="url(#pg)"><animate attributeName="x" values="-100;940" dur="3.6s" repeatCount="indefinite"/></rect></svg>
+</style><line class="dl" x1="60" y1="9.0" x2="940" y2="9.0" stroke-width="1.4"/><circle class="cap" cx="60" cy="9.0" r="2"/><circle class="cap" cx="940" cy="9.0" r="2"/><rect x="420" y="7.6" width="160" height="2.8" rx="1.4" fill="url(#pg)" opacity=".7"/><circle class="cap" cx="500" cy="9.0" r="2.4"/></svg>
