@@ -27,7 +27,7 @@
 
 <!-- TECH STACK — source private: github.com/atikulmunna/readme-src -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/tech-stack.svg?v=fe7f05b9" alt="Tech stack" width="100%" />
+  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/tech-stack.svg?v=62c117f1" alt="Tech stack" width="100%" />
 </div>
 
 <br/>
