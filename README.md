@@ -11,6 +11,13 @@
 
 <br/>
 
+<!-- ABOUT / INTRO — boxless whoami line; source private: github.com/atikulmunna/readme-src -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/about.svg?v=f600f8d3" alt="CSE @ North South University — I build ML & computer-vision systems, from research prototypes to edge-deployable production" width="100%" />
+</div>
+
+<br/>
+
 <!-- STACK CARD (tagline + tech_stack + particle pour into the shooter) — source private: github.com/atikulmunna/readme-src -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/stack-card.svg?v=2411ef6d" alt="ML / DL • Computer Vision • Edge AI — tech stack" width="100%" />
@@ -25,6 +32,13 @@
 <div align="center">
   <a href="https://github.com/atikulmunna/sagrag" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/proj-sagrag.svg?v=30eadfd6" width="49%" alt="sagrag — multi-agent RAG with speculative planning and graph reasoning"/></a> <a href="https://github.com/atikulmunna/workspace-management-beta" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/proj-workspace.svg?v=a5eca67e" width="49%" alt="workspace-mgmt — multi-tenant workspace REST API"/></a>
   <a href="https://github.com/atikulmunna/unuMCP" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/proj-unumcp.svg?v=3f2b026a" width="49%" alt="unuMCP — OpenAPI spec to a tested, self-repairing TypeScript MCP server"/></a> <a href="https://github.com/atikulmunna/cross-system-log-anomaly" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/proj-loganomaly.svg?v=11375bec" width="49%" alt="log-anomaly — cross-system zero-shot log anomaly detection"/></a>
+</div>
+
+<br/>
+
+<!-- GITHUB STATS — custom, live card (commits/PRs/stars/repos + top languages by repo); source private: github.com/atikulmunna/readme-src -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/stats.svg?v=5a28a4c0" alt="GitHub stats — commits, pull requests, stars, repos, and top languages" width="100%" />
 </div>
 
 <br/>
