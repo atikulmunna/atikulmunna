@@ -13,7 +13,7 @@
 
 <!-- STACK CARD (tagline + tech_stack + particle pour into the shooter) — source private: github.com/atikulmunna/readme-src -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/stack-card.svg?v=5f8262b0" alt="ML / DL • Computer Vision • Edge AI — tech stack" width="100%" />
+  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/stack-card.svg?v=64564729" alt="ML / DL • Computer Vision • Edge AI — tech stack" width="100%" />
 </div>
 
 <br/>
@@ -34,8 +34,8 @@
 
 <!-- FEATURED PROJECTS — clickable cards, particle flow continues from the shooter; source private: github.com/atikulmunna/readme-src -->
 <div align="center">
-  <a href="https://github.com/atikulmunna/sagrag" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/proj-sagrag.svg?v=f3d5ff42" width="49%" alt="sagrag — multi-agent RAG with speculative planning and graph reasoning"/></a> <a href="https://github.com/atikulmunna/workspace-management-beta" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/proj-workspace.svg?v=6ee870bf" width="49%" alt="workspace-mgmt — multi-tenant workspace REST API"/></a>
-  <a href="https://github.com/atikulmunna/edge-intelligence-benchmarking-and-simulation" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/proj-edge-intel.svg?v=bec4a913" width="49%" alt="edge-intelligence — edge-AI benchmarking and simulation"/></a> <a href="https://github.com/atikulmunna/garments-vision" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/proj-garments.svg?v=437ecc2d" width="49%" alt="garments-vision — YOLO11-pose hand-motion pipeline"/></a>
+  <a href="https://github.com/atikulmunna/sagrag" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/proj-sagrag.svg?v=2063414c" width="49%" alt="sagrag — multi-agent RAG with speculative planning and graph reasoning"/></a> <a href="https://github.com/atikulmunna/workspace-management-beta" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/proj-workspace.svg?v=62cfc14a" width="49%" alt="workspace-mgmt — multi-tenant workspace REST API"/></a>
+  <a href="https://github.com/atikulmunna/edge-intelligence-benchmarking-and-simulation" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/proj-edge-intel.svg?v=3a9db5bf" width="49%" alt="edge-intelligence — edge-AI benchmarking and simulation"/></a> <a href="https://github.com/atikulmunna/garments-vision" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/proj-garments.svg?v=01713e62" width="49%" alt="garments-vision — YOLO11-pose hand-motion pipeline"/></a>
 </div>
 
 <br/>
