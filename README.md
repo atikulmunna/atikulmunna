@@ -1,6 +1,6 @@
 <!-- FLAPPY HEADER — source private: github.com/atikulmunna/readme-src -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/flappy.svg?v=b1d8612d" alt="AI/ML flappy bird" width="100%" />
+  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/flappy.svg?v=4fd7c92c" alt="AI/ML flappy bird" width="100%" />
 </div>
 
 <br/>
@@ -13,7 +13,7 @@
 
 <!-- STACK CARD (tagline + tech_stack + rain-line divider) — source private: github.com/atikulmunna/readme-src -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/stack-card.svg?v=3a0b0c20" alt="ML / DL • Computer Vision • Edge AI — tech stack" width="100%" />
+  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/stack-card.svg?v=5f8262b0" alt="ML / DL • Computer Vision • Edge AI — tech stack" width="100%" />
 </div>
 
 <br/>
