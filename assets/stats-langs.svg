@@ -3,7 +3,7 @@
 <style>
   .bg   { fill:#050507; }
   .card { fill:none; stroke:#2a2150; stroke-width:1.2; }
-  .num  { fill:#7c3aed; font-weight:700; }
+  .num  { fill:#22d3ee; font-weight:700; }
   .lbl  { fill:#5b4a86; }
   .div  { stroke:#2a2150; }
   .sub  { fill:#9a7fd0; font-weight:700; letter-spacing:1px; }
@@ -17,7 +17,7 @@
   @media (prefers-color-scheme: dark) {
     .bg   { fill:#000000; }
     .card { stroke:#3a2f63; }
-    .num  { fill:#e9e3ff; }
+    .num  { fill:#22d3ee; }
     .lbl  { fill:#9a8fc0; }
     .div  { stroke:#3a2f63; }
     .sub  { fill:#c4b5fd; }

@@ -5,7 +5,7 @@
   .prompt { fill:#9a7fd0; font-weight:700; }
   .cur    { fill:#7c3aed; }
   .htx    { fill:#9a7fd0; font-weight:700; letter-spacing:1px; }
-  .label  { fill:#6d28d9; font-weight:700; letter-spacing:2px; }
+  .label  { fill:#22d3ee; font-weight:700; letter-spacing:2px; }
   .bar    { fill:#7c3aed; }
   .pill   { fill:#000000; stroke:none; }
   .pilltx { fill:#a78bfa; font-weight:600; }
@@ -17,7 +17,7 @@
     .prompt { fill:#a78bfa; }
     .cur    { fill:#c4b5fd; }
     .htx    { fill:#c4b5fd; }
-    .label  { fill:#c4b5fd; }
+    .label  { fill:#22d3ee; }
     .bar    { fill:#a78bfa; }
     .pill   { fill:#000000; }
     .pilltx { fill:#c4b5fd; }
