@@ -13,7 +13,7 @@
 
 <!-- ABOUT / INTRO — boxless whoami line; source private: github.com/atikulmunna/readme-src -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/about.svg?v=f600f8d3" alt="CSE @ North South University — I build ML & computer-vision systems, from research prototypes to edge-deployable production" width="100%" />
+  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/about.svg?v=f90a6d97" alt="CSE @ North South University — I build ML & computer-vision systems, from research prototypes to edge-deployable production" width="100%" />
 </div>
 
 <br/>
@@ -38,7 +38,7 @@
 
 <!-- GITHUB STATS — custom, live card (commits/PRs/stars/repos + top languages by repo); source private: github.com/atikulmunna/readme-src -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/stats.svg?v=5a28a4c0" alt="GitHub stats — commits, pull requests, stars, repos, and top languages" width="100%" />
+  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/stats.svg?v=6d46b5b3" alt="GitHub stats — commits, pull requests, stars, repos, and top languages" width="100%" />
 </div>
 
 <br/>
