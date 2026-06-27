@@ -6,35 +6,35 @@
 <br/>
 
 <div align="center">
-  <a href="https://aimunna.me/" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/social-portfolio.svg?v=c72239f7" height="46" alt="Portfolio"/></a><a href="https://linkedin.com/in/aimunna" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/social-linkedin.svg?v=539193a1" height="46" alt="LinkedIn"/></a><a href="mailto:aimunna@proton.me"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/social-email.svg?v=44052759" height="46" alt="Email"/></a><a href="https://discord.gg/WhGUME8YGd" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/social-discord.svg?v=4e2ead9d" height="46" alt="Discord"/></a>
+  <a href="https://aimunna.me/" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/social-portfolio.svg?v=b15150da" height="46" alt="Portfolio"/></a><a href="https://linkedin.com/in/aimunna" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/social-linkedin.svg?v=5d99a6eb" height="46" alt="LinkedIn"/></a><a href="mailto:aimunna@proton.me"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/social-email.svg?v=717cd755" height="46" alt="Email"/></a><a href="https://discord.gg/WhGUME8YGd" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/social-discord.svg?v=546917d3" height="46" alt="Discord"/></a>
 </div>
 
 <br/>
 
 <!-- STACK CARD (tagline + tech_stack + particle pour into the shooter) — source private: github.com/atikulmunna/readme-src -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/stack-card.svg?v=2411ef6d" alt="ML / DL • Computer Vision • Edge AI — tech stack" width="100%" />
+  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/stack-card.svg?v=a497cd0d" alt="ML / DL • Computer Vision • Edge AI — tech stack" width="100%" />
 </div>
 
 <br/>
 
 <!-- FEATURED PROJECTS — themed heading + clickable 2x2 cards; particle flow runs stack-card -> projects -> shooter. source private: github.com/atikulmunna/readme-src -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/proj-header.svg?v=4406f42e" alt="❯ featured_projects" width="100%" />
+  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/proj-header.svg?v=3345e4c5" alt="❯ featured_projects" width="100%" />
 </div>
 <div align="center">
-  <a href="https://github.com/atikulmunna/sagrag" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/proj-sagrag.svg?v=30eadfd6" width="49%" alt="sagrag — multi-agent RAG with speculative planning and graph reasoning"/></a> <a href="https://github.com/atikulmunna/workspace-management-beta" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/proj-workspace.svg?v=a5eca67e" width="49%" alt="workspace-mgmt — multi-tenant workspace REST API"/></a>
-  <a href="https://github.com/atikulmunna/unuMCP" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/proj-unumcp.svg?v=3f2b026a" width="49%" alt="unuMCP — OpenAPI spec to a tested, self-repairing TypeScript MCP server"/></a> <a href="https://github.com/atikulmunna/cross-system-log-anomaly" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/proj-loganomaly.svg?v=11375bec" width="49%" alt="log-anomaly — cross-system zero-shot log anomaly detection"/></a>
+  <a href="https://github.com/atikulmunna/sagrag" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/proj-sagrag.svg?v=f8d6c595" width="49%" alt="sagrag — multi-agent RAG with speculative planning and graph reasoning"/></a> <a href="https://github.com/atikulmunna/workspace-management-beta" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/proj-workspace.svg?v=82f5dc54" width="49%" alt="workspace-mgmt — multi-tenant workspace REST API"/></a>
+  <a href="https://github.com/atikulmunna/unuMCP" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/proj-unumcp.svg?v=0f7f7c14" width="49%" alt="unuMCP — OpenAPI spec to a tested, self-repairing TypeScript MCP server"/></a> <a href="https://github.com/atikulmunna/cross-system-log-anomaly" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/proj-loganomaly.svg?v=90f3e678" width="49%" alt="log-anomaly — cross-system zero-shot log anomaly detection"/></a>
 </div>
 
 <br/>
 
 <!-- GITHUB STATS — floating heading + two 49% cards (overview · top languages), live; source private: github.com/atikulmunna/readme-src -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/stats-header.svg?v=6c916e67" alt="❯ github_stats" width="100%" />
+  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/stats-header.svg?v=935bbc48" alt="❯ github_stats" width="100%" />
 </div>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/stats-overview.svg?v=c72e8833" width="49%" alt="GitHub overview — commits, pull requests, issues, stars, followers, public repos"/> <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/stats-langs.svg?v=4ecf0486" width="49%" alt="Top languages by repository — Python, TypeScript, C, JavaScript, Jupyter, Dart"/>
+  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/stats-overview.svg?v=169590cf" width="49%" alt="GitHub overview — commits, pull requests, issues, stars, followers, public repos"/> <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/stats-langs.svg?v=582da123" width="49%" alt="Top languages by repository — Python, TypeScript, C, JavaScript, Jupyter, Dart"/>
 </div>
 
 <br/>
