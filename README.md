@@ -11,13 +11,6 @@
 
 <br/>
 
-<!-- ABOUT / INTRO — boxless whoami line; source private: github.com/atikulmunna/readme-src -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/about.svg?v=f90a6d97" alt="CSE @ North South University — I build ML & computer-vision systems, from research prototypes to edge-deployable production" width="100%" />
-</div>
-
-<br/>
-
 <!-- STACK CARD (tagline + tech_stack + particle pour into the shooter) — source private: github.com/atikulmunna/readme-src -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/stack-card.svg?v=2411ef6d" alt="ML / DL • Computer Vision • Edge AI — tech stack" width="100%" />
@@ -36,9 +29,12 @@
 
 <br/>
 
-<!-- GITHUB STATS — custom, live card (commits/PRs/stars/repos + top languages by repo); source private: github.com/atikulmunna/readme-src -->
+<!-- GITHUB STATS — floating heading + two 49% cards (totals · top languages), live; source private: github.com/atikulmunna/readme-src -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/stats.svg?v=6d46b5b3" alt="GitHub stats — commits, pull requests, stars, repos, and top languages" width="100%" />
+  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/stats-header.svg?v=7470b353" alt="❯ github_stats" width="100%" />
+</div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/stats-totals.svg?v=a788f01d" width="49%" alt="GitHub activity — commits, pull requests, stars, public repos"/> <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/stats-langs.svg?v=b2c30753" width="49%" alt="Top languages by repository — Python, TypeScript, C, JavaScript, Jupyter, Dart"/>
 </div>
 
 <br/>
