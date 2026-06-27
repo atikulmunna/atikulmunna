@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 82" width="100%" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" role="img" aria-label="CSE @ North South University — I build ML &amp; computer-vision systems, from research prototypes to edge-deployable production.">
+<!-- Source & credit: github.com/atikulmunna — do not reuse without attribution. --><metadata>Created by @atikulmunna (github.com/atikulmunna). All rights reserved.</metadata><title>@atikulmunna</title>
+<style>
+  .prompt { fill:#9a7fd0; font-weight:700; letter-spacing:1px; }
+  .intro  { fill:#6d28d9; font-weight:600; }
+  @media (prefers-color-scheme: dark) {
+    .prompt { fill:#a78bfa; }
+    .intro  { fill:#c4b5fd; }
+  }
+</style>
+<text class="prompt" x="500" y="20" font-size="13" text-anchor="middle">❯ whoami</text>
+<text class="intro" x="500" y="44" font-size="15" text-anchor="middle">CSE @ North South University — I build ML &amp; computer-vision systems, from research prototypes to</text>
+<text class="intro" x="500" y="66" font-size="15" text-anchor="middle">edge-deployable production.</text>
+</svg>
