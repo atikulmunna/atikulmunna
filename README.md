@@ -13,18 +13,18 @@
 
 <!-- STACK CARD (tagline + tech_stack + particle pour into the shooter) — source private: github.com/atikulmunna/readme-src -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/stack-card.svg?v=64564729" alt="ML / DL • Computer Vision • Edge AI — tech stack" width="100%" />
+  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/stack-card.svg?v=0982520f" alt="ML / DL • Computer Vision • Edge AI — tech stack" width="100%" />
 </div>
 
 <br/>
 
 <!-- FEATURED PROJECTS — themed heading + clickable 2x2 cards; particle flow runs stack-card -> projects -> shooter. source private: github.com/atikulmunna/readme-src -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/proj-header.svg?v=12b0c2dc" alt="❯ featured_projects" width="100%" />
+  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/proj-header.svg?v=88ede4c3" alt="❯ featured_projects" width="100%" />
 </div>
 <div align="center">
   <a href="https://github.com/atikulmunna/sagrag" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/proj-sagrag.svg?v=2063414c" width="49%" alt="sagrag — multi-agent RAG with speculative planning and graph reasoning"/></a> <a href="https://github.com/atikulmunna/workspace-management-beta" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/proj-workspace.svg?v=62cfc14a" width="49%" alt="workspace-mgmt — multi-tenant workspace REST API"/></a>
-  <a href="https://github.com/atikulmunna/unuMCP" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/proj-unumcp.svg?v=391e81b0" width="49%" alt="unuMCP — OpenAPI spec to a tested, self-repairing TypeScript MCP server"/></a> <a href="https://github.com/atikulmunna/cross-system-log-anomaly" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/proj-loganomaly.svg?v=154acb15" width="49%" alt="log-anomaly — cross-system zero-shot log anomaly detection"/></a>
+  <a href="https://github.com/atikulmunna/unuMCP" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/proj-unumcp.svg?v=90857a22" width="49%" alt="unuMCP — OpenAPI spec to a tested, self-repairing TypeScript MCP server"/></a> <a href="https://github.com/atikulmunna/cross-system-log-anomaly" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/proj-loganomaly.svg?v=43ecaa31" width="49%" alt="log-anomaly — cross-system zero-shot log anomaly detection"/></a>
 </div>
 
 <br/>
