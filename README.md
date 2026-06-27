@@ -27,6 +27,20 @@
 <br/>
 
 <div align="center">
+  <code>❯ featured_projects</code>
+</div>
+
+<br/>
+
+<!-- FEATURED PROJECTS — clickable cards, particle flow continues from the shooter; source private: github.com/atikulmunna/readme-src -->
+<div align="center">
+  <a href="https://github.com/atikulmunna/sagrag" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/proj-sagrag.svg?v=f3d5ff42" width="49%" alt="sagrag — multi-agent RAG with speculative planning and graph reasoning"/></a> <a href="https://github.com/atikulmunna/workspace-management-beta" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/proj-workspace.svg?v=6ee870bf" width="49%" alt="workspace-mgmt — multi-tenant workspace REST API"/></a>
+  <a href="https://github.com/atikulmunna/edge-intelligence-benchmarking-and-simulation" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/proj-edge-intel.svg?v=bec4a913" width="49%" alt="edge-intelligence — edge-AI benchmarking and simulation"/></a> <a href="https://github.com/atikulmunna/garments-vision" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/proj-garments.svg?v=437ecc2d" width="49%" alt="garments-vision — YOLO11-pose hand-motion pipeline"/></a>
+</div>
+
+<br/>
+
+<div align="center">
   <sub><code>// impossible is nothing </code></sub>
 </div>
 
