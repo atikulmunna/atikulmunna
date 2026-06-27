@@ -31,11 +31,11 @@
 
 <!-- GITHUB STATS — floating heading + 2x2 card grid (activity · languages · community · cadence), live; source private: github.com/atikulmunna/readme-src -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/stats-header.svg?v=7470b353" alt="❯ github_stats" width="100%" />
+  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/stats-header.svg?v=6c916e67" alt="❯ github_stats" width="100%" />
 </div>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/stats-activity.svg?v=5416f660" width="49%" alt="Activity (last year) — commits, pull requests, issues"/> <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/stats-langs.svg?v=b2c30753" width="49%" alt="Top languages by repository — Python, TypeScript, C, JavaScript, Jupyter, Dart"/>
-  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/stats-community.svg?v=915e7528" width="49%" alt="Community — stars earned, followers, public repos"/> <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/stats-cadence.svg?v=5886a900" width="49%" alt="Cadence — yearly contributions, longest streak, years on GitHub"/>
+  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/stats-activity.svg?v=714124f4" width="49%" alt="Activity (last year) — commits, pull requests, issues"/> <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/stats-langs.svg?v=29994a3b" width="49%" alt="Top languages by repository — Python, TypeScript, C, JavaScript, Jupyter, Dart"/>
+  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/stats-community.svg?v=74516c92" width="49%" alt="Community — stars earned, followers, public repos"/> <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/stats-cadence.svg?v=3ea7df3c" width="49%" alt="Cadence — yearly contributions, longest streak, years on GitHub"/>
 </div>
 
 <br/>
