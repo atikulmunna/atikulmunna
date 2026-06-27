@@ -18,24 +18,21 @@
 
 <br/>
 
+<!-- FEATURED PROJECTS — themed heading + clickable 2x2 cards; particle flow runs stack-card -> projects -> shooter. source private: github.com/atikulmunna/readme-src -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/proj-header.svg?v=12b0c2dc" alt="❯ featured_projects" width="100%" />
+</div>
+<div align="center">
+  <a href="https://github.com/atikulmunna/sagrag" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/proj-sagrag.svg?v=2063414c" width="49%" alt="sagrag — multi-agent RAG with speculative planning and graph reasoning"/></a> <a href="https://github.com/atikulmunna/workspace-management-beta" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/proj-workspace.svg?v=62cfc14a" width="49%" alt="workspace-mgmt — multi-tenant workspace REST API"/></a>
+  <a href="https://github.com/atikulmunna/unuMCP" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/proj-unumcp.svg?v=391e81b0" width="49%" alt="unuMCP — OpenAPI spec to a tested, self-repairing TypeScript MCP server"/></a> <a href="https://github.com/atikulmunna/cross-system-log-anomaly" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/proj-loganomaly.svg?v=154acb15" width="49%" alt="log-anomaly — cross-system zero-shot log anomaly detection"/></a>
+</div>
+
+<br/>
+
 <!-- SPACE SHOOTER — contribution graph, auto-updated daily via GitHub Actions -->
 <!-- Setup: czl9707/gh-space-shooter — .github/workflows/update-game.yml -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/game.gif" alt="GitHub Contributions as Space Shooter" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <code>❯ featured_projects</code>
-</div>
-
-<br/>
-
-<!-- FEATURED PROJECTS — clickable cards, particle flow continues from the shooter; source private: github.com/atikulmunna/readme-src -->
-<div align="center">
-  <a href="https://github.com/atikulmunna/sagrag" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/proj-sagrag.svg?v=2063414c" width="49%" alt="sagrag — multi-agent RAG with speculative planning and graph reasoning"/></a> <a href="https://github.com/atikulmunna/workspace-management-beta" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/proj-workspace.svg?v=62cfc14a" width="49%" alt="workspace-mgmt — multi-tenant workspace REST API"/></a>
-  <a href="https://github.com/atikulmunna/edge-intelligence-benchmarking-and-simulation" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/proj-edge-intel.svg?v=3a9db5bf" width="49%" alt="edge-intelligence — edge-AI benchmarking and simulation"/></a> <a href="https://github.com/atikulmunna/garments-vision" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/proj-garments.svg?v=01713e62" width="49%" alt="garments-vision — YOLO11-pose hand-motion pipeline"/></a>
 </div>
 
 <br/>
