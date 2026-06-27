@@ -11,7 +11,7 @@
 
 <br/>
 
-<!-- STACK CARD (tagline + tech_stack + rain-line divider) — source private: github.com/atikulmunna/readme-src -->
+<!-- STACK CARD (tagline + tech_stack + particle pour into the shooter) — source private: github.com/atikulmunna/readme-src -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/stack-card.svg?v=5f8262b0" alt="ML / DL • Computer Vision • Edge AI — tech stack" width="100%" />
 </div>
