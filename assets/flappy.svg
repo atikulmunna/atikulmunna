@@ -1,5 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 240" width="100%" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" role="img" aria-label="AI/ML flappy bird by @atikulmunna">
 <!-- Source & credit: github.com/atikulmunna — do not reuse without attribution. --><metadata>Created by @atikulmunna (github.com/atikulmunna). All rights reserved.</metadata><title>@atikulmunna</title>
+<!-- cache-bust r2 -->
 <style>
   .bg    { fill:#050507; }
   .twr   { fill:#0d1117; stroke:#4a3b7a; stroke-width:1; }
