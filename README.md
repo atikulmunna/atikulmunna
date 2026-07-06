@@ -35,7 +35,7 @@
   <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/stats-header.svg?v=935bbc48" alt="❯ github_stats" width="100%" />
 </div>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/stats-overview.svg?v=7930a7ed" width="49%" alt="GitHub overview — contributions, pull requests, issues, stars, public repos"/> <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/stats-langs.svg?v=eb427a74" width="49%" alt="Top languages by repository — Python, TypeScript, C, JavaScript, Jupyter, Dart"/>
+  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/stats-overview.svg?v=a6b2a2c4" width="49%" alt="GitHub overview — contributions, pull requests, issues, stars, public repos"/> <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/stats-langs.svg?v=6118ceae" width="49%" alt="Top languages by repository — Python, TypeScript, C, JavaScript, Jupyter, Dart"/>
 </div>
 
 <br/>
