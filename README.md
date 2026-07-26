@@ -1,6 +1,6 @@
 <!-- FLAPPY HEADER — source private: github.com/atikulmunna/readme-src -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/flappy.svg?v=7ce62e1c" alt="AI/ML flappy bird" width="100%" />
+  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/flappy.svg?v=e1c37692" alt="AI/ML flappy bird" width="100%" />
 </div>
 
 <br/>
@@ -13,28 +13,28 @@
 
 <!-- STACK CARD (tagline + tech_stack + particle pour into the shooter) — source private: github.com/atikulmunna/readme-src -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/stack-card.svg?v=a497cd0d" alt="ML / DL • Computer Vision • Edge AI — tech stack" width="100%" />
+  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/stack-card.svg?v=6d7237cb" alt="ML / DL • Computer Vision • Edge AI — tech stack" width="100%" />
 </div>
 
 <br/>
 
 <!-- FEATURED PROJECTS — themed heading + clickable 2x2 cards; particle flow runs stack-card -> projects -> shooter. source private: github.com/atikulmunna/readme-src -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/proj-header.svg?v=3345e4c5" alt="❯ featured_projects" width="100%" />
+  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/proj-header.svg?v=55da1f87" alt="❯ featured_projects" width="100%" />
 </div>
 <div align="center">
-  <a href="https://github.com/atikulmunna/sagrag" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/proj-sagrag.svg?v=f8d6c595" width="49%" alt="sagrag — multi-agent RAG with speculative planning and graph reasoning"/></a> <a href="https://github.com/atikulmunna/unuMCP" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/proj-unumcp.svg?v=0f7f7c14" width="49%" alt="unuMCP — OpenAPI spec to a tested, self-repairing TypeScript MCP server"/></a>
-  <a href="https://github.com/atikulmunna/SmartForm" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/proj-smartform.svg?v=ac8a2a27" width="49%" alt="smartform — on-device Android fitness coach: real-time pose tracking, rep counting and gesture control"/></a> <a href="https://github.com/atikulmunna/SourceCast" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/proj-sourcecast.svg?v=54d53fef" width="49%" alt="sourcecast — evidence-first research assistant for long-form audio and video with timestamped transcript retrieval"/></a>
+  <a href="https://github.com/atikulmunna/sagrag" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/proj-sagrag.svg?v=91bb8223" width="49%" alt="sagrag — multi-agent RAG with speculative planning and graph reasoning"/></a> <a href="https://github.com/atikulmunna/unuMCP" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/proj-unumcp.svg?v=86f0e8b0" width="49%" alt="unuMCP — OpenAPI spec to a tested, self-repairing TypeScript MCP server"/></a>
+  <a href="https://github.com/atikulmunna/SmartForm" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/proj-smartform.svg?v=1cbfe36b" width="49%" alt="smartform — on-device Android fitness coach: real-time pose tracking, rep counting and gesture control"/></a> <a href="https://github.com/atikulmunna/SourceCast" target="_blank"><img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/proj-sourcecast.svg?v=f60abc7f" width="49%" alt="sourcecast — evidence-first research assistant for long-form audio and video with timestamped transcript retrieval"/></a>
 </div>
 
 <br/>
 
 <!-- GITHUB STATS — floating heading + two 49% cards (overview · top languages), live; source private: github.com/atikulmunna/readme-src -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/stats-header.svg?v=935bbc48" alt="❯ github_stats" width="100%" />
+  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/stats-header.svg?v=0d6e9643" alt="❯ github_stats" width="100%" />
 </div>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/stats-overview.svg?v=1771dbcd" width="49%" alt="GitHub overview — contributions, pull requests, issues, stars, public repos"/> <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/stats-langs.svg?v=6e2bee9c" width="49%" alt="Top languages by repository — Python, TypeScript, C, JavaScript, Jupyter, Dart"/>
+  <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/stats-overview.svg?v=0cf553f1" width="49%" alt="GitHub overview — contributions, pull requests, issues, stars, public repos"/> <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/assets/stats-langs.svg?v=3743f0ba" width="49%" alt="Top languages by repository — Python, TypeScript, C, JavaScript, Jupyter, Dart"/>
 </div>
 
 <br/>

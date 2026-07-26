@@ -2,7 +2,7 @@
 <!-- Source & credit: github.com/atikulmunna — do not reuse without attribution. --><metadata>Created by @atikulmunna (github.com/atikulmunna). All rights reserved.</metadata><title>@atikulmunna</title>
 <style>
   .prompt { fill:#7c3aed; font-weight:700; }
-  .htx    { fill:#9a7fd0; font-weight:700; letter-spacing:1px; }
+  .htx    { fill:#c4b5fd; font-weight:700; letter-spacing:1px; }
   .star   { fill:#7c3aed; }
   .pour   { fill:#7c3aed; }
   @media (prefers-color-scheme: dark) {

@@ -5,10 +5,10 @@
   .card  { fill:none; stroke:#2a2150; stroke-width:1.2; }
   .acc   { fill:#7c3aed; stroke:#7c3aed; }
   .prompt{ fill:#7c3aed; font-weight:700; }
-  .name  { fill:#6d28d9; font-weight:700; }
-  .desc  { fill:#5b4a86; }
+  .name  { fill:#e9e3ff; font-weight:700; }
+  .desc  { fill:#9a8fc0; }
   .pill  { fill:#000000; }
-  .pilltx{ fill:#7c3aed; font-weight:600; }
+  .pilltx{ fill:#c4b5fd; font-weight:600; }
   .star  { fill:#7c3aed; }
   .pour  { fill:#7c3aed; }
   .sig   { fill:#7c3aed; opacity:.4; }

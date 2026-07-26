@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 602" width="100%" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" role="img" aria-label="❯ ML / DL  •  Computer Vision  •  Edge AI — tech stack by @atikulmunna">
 <!-- Source & credit: github.com/atikulmunna — do not reuse without attribution. --><metadata>Created by @atikulmunna (github.com/atikulmunna). All rights reserved.</metadata><title>@atikulmunna</title>
 <style>
-  .tx     { fill:#6d28d9; font-weight:700; }
-  .prompt { fill:#9a7fd0; font-weight:700; }
-  .cur    { fill:#7c3aed; }
-  .htx    { fill:#9a7fd0; font-weight:700; letter-spacing:1px; }
-  .label  { fill:#6d28d9; font-weight:700; letter-spacing:2px; }
+  .tx     { fill:#d6ccff; font-weight:700; }
+  .prompt { fill:#a78bfa; font-weight:700; }
+  .cur    { fill:#c4b5fd; }
+  .htx    { fill:#c4b5fd; font-weight:700; letter-spacing:1px; }
+  .label  { fill:#c4b5fd; font-weight:700; letter-spacing:2px; }
   .bar    { fill:#7c3aed; }
   .pill   { fill:#000000; stroke:none; }
   .pilltx { fill:#a78bfa; font-weight:600; }
