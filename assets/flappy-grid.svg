@@ -2,53 +2,49 @@
 <!-- Source & credit: github.com/atikulmunna — do not reuse without attribution. --><metadata>Created by @atikulmunna (github.com/atikulmunna). All rights reserved.</metadata><title>@atikulmunna</title>
 <!-- cache-bust r2 -->
 <style>
-  .bg    { fill:#050507; }
-  .twr   { fill:#0d1117; stroke:#4a3b7a; stroke-width:1; }
-  .twr-l { fill:#7c3aed; }
-  .cap   { fill:#6d28d9; }
-  .led   { fill:#c4b5fd; stroke:#c4b5fd; }
-  .mot-l { fill:#a78bfa; stroke:#a78bfa; }
-  .mot-d { fill:#241a47; stroke:#241a47; }
-  .bird  { fill:#7c3aed; }
-  .belly { fill:#c4b5fd; }
-  .wing  { fill:#6d28d9; }
-  .tail  { fill:#6d28d9; }
+  .bg    { fill:#000000; }
+  .twr   { fill:#0c0c0e; stroke:#2f3036; stroke-width:1; }
+  .twr-l { fill:#cfd0d5; }
+  .cap   { fill:#e6e6ea; }
+  .led   { fill:#ffffff; stroke:#ffffff; }
+  .mot-l { fill:#d5d5da; stroke:#d5d5da; }
+  .mot-d { fill:#17171b; stroke:#17171b; }
+  .bird  { fill:#e8e8ec; }
+  .belly { fill:#ffffff; }
+  .wing  { fill:#b8b8be; }
+  .tail  { fill:#b8b8be; }
   .eye   { fill:#ffffff; }
-  .iris  { fill:none; stroke:#22d3ee; stroke-width:1.4; }
-  .glint { fill:#22d3ee; }
-  .pupil { fill:#050507; }
-  .beak  { stroke:#c4b5fd; stroke-width:2.4; fill:none; }
-  .gnd   { fill:#0d1117; stroke:#4a3b7a; stroke-width:1; }
-  .gpu-b { fill:#0b0b16; stroke:#4a3b7a; stroke-width:1.2; }
-  .gpu-p { fill:#15111f; }
-  .gpu-tx{ fill:#c4b5fd; font-weight:700; letter-spacing:0.5px; }
-  .bolt  { stroke:#9a7bf0; fill:none; stroke-linejoin:round; stroke-linecap:round; }
-  .hud   { fill:#a78bfa; }
-  .trail { fill:#7c3aed; }
-  .sig   { fill:#7c3aed; }
+  .iris  { fill:none; stroke:#cfcfd4; stroke-width:1.4; }
+  .glint { fill:#ffffff; }
+  .pupil { fill:#000000; }
+  .beak  { stroke:#ffffff; stroke-width:2.4; fill:none; }
+  .gnd   { fill:#0a0a0c; stroke:#2f3036; stroke-width:1; }
+  .gpu-b { fill:#0a0a0c; stroke:#2f3036; stroke-width:1.2; }
+  .gpu-p { fill:#141416; }
+  .gpu-tx{ fill:#cfd0d5; font-weight:700; letter-spacing:0.5px; }
+  .bolt  { stroke:#e6e6ea; fill:none; stroke-linejoin:round; stroke-linecap:round; }
+  .hud   { fill:#c8c8cc; }
+  .trail { fill:#cfd0d5; }
+  .sig   { fill:#cfd0d5; }
   @media (prefers-color-scheme: dark) {
-    .bg    { fill:#000000; }
-    .twr-l { fill:#a78bfa; }
-    .cap   { fill:#7c3aed; }
-    .led   { fill:#ffffff; stroke:#ffffff; }
-    .mot-l { fill:#c4b5fd; stroke:#c4b5fd; }
-    .mot-d { fill:#2f2356; stroke:#2f2356; }
-    .bird  { fill:#a78bfa; }
-    .wing  { fill:#7c3aed; }
-    .tail  { fill:#7c3aed; }
-    .belly { fill:#c4b5fd; }
-    .beak  { stroke:#e9e3ff; }
-    .gnd   { stroke:#6d28d9; }
-    .gpu-b { fill:#070710; stroke:#6d28d9; }
-    .gpu-p { fill:#100c1c; }
-    .gpu-tx{ fill:#c4b5fd; }
-    .bolt  { stroke:#d6ccff; }
-    .hud   { fill:#a78bfa; }
-    .trail { fill:#a78bfa; }
-    .sig   { fill:#a78bfa; }
+    .twr-l { fill:#e6e6ea; }
+    .cap   { fill:#ffffff; }
+    .mot-l { fill:#e6e6ea; stroke:#e6e6ea; }
+    .mot-d { fill:#1c1c20; stroke:#1c1c20; }
+    .bird  { fill:#ffffff; }
+    .wing  { fill:#c8c8ce; }
+    .tail  { fill:#c8c8ce; }
+    .gnd   { stroke:#3a3b40; }
+    .gpu-b { stroke:#3a3b40; }
+    .gpu-p { fill:#181819; }
+    .gpu-tx{ fill:#ffffff; }
+    .bolt  { stroke:#ffffff; }
+    .hud   { fill:#e6e6ea; }
+    .trail { fill:#ffffff; }
+    .sig   { fill:#e6e6ea; }
   }
 </style>
-<defs><radialGradient id="bglow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#7c3aed" stop-opacity="0.18"/><stop offset="0.55" stop-color="#7c3aed" stop-opacity="0.06"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></radialGradient><radialGradient id="cloud" cx="0.5" cy="0.42" r="0.58"><stop offset="0" stop-color="#a78bfa" stop-opacity="0.36"/><stop offset="0.55" stop-color="#7c3aed" stop-opacity="0.14"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></radialGradient><radialGradient id="skyflash" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#c4b5fd" stop-opacity="1"/><stop offset="0.45" stop-color="#a78bfa" stop-opacity="0.45"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></radialGradient><filter id="bglur" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="0.5"/></filter><filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="1.7"/></filter><linearGradient id="tg" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1000" y2="0"><stop offset="0" stop-color="#000"/><stop offset="0.008" stop-color="#000"/><stop offset="0.200" stop-color="#fff"/><stop offset="0.204" stop-color="#000"/><stop offset="1" stop-color="#000"/></linearGradient><mask id="trailfade" maskUnits="userSpaceOnUse" x="0" y="0" width="1000" height="240"><rect width="1000" height="240" fill="url(#tg)"/></mask></defs>
+<defs><radialGradient id="bglow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.16"/><stop offset="0.55" stop-color="#ffffff" stop-opacity="0.06"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient><radialGradient id="cloud" cx="0.5" cy="0.42" r="0.58"><stop offset="0" stop-color="#d7d7dc" stop-opacity="0.30"/><stop offset="0.55" stop-color="#c8c8ce" stop-opacity="0.12"/><stop offset="1" stop-color="#c8c8ce" stop-opacity="0"/></radialGradient><radialGradient id="skyflash" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="1"/><stop offset="0.45" stop-color="#ffffff" stop-opacity="0.45"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient><filter id="bglur" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="0.5"/></filter><filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="1.7"/></filter><linearGradient id="tg" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1000" y2="0"><stop offset="0" stop-color="#000"/><stop offset="0.008" stop-color="#000"/><stop offset="0.200" stop-color="#fff"/><stop offset="0.204" stop-color="#000"/><stop offset="1" stop-color="#000"/></linearGradient><mask id="trailfade" maskUnits="userSpaceOnUse" x="0" y="0" width="1000" height="240"><rect width="1000" height="240" fill="url(#tg)"/></mask></defs>
 <clipPath id="round"><rect width="1000" height="240" rx="13"/></clipPath>
 <g clip-path="url(#round)">
 <rect class="bg" x="0" y="0" width="1000" height="240" rx="13"/>
