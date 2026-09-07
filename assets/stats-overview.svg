@@ -33,8 +33,8 @@
 <text class="num" x="250" y="92" font-size="24" text-anchor="middle">97</text>
 <text class="lbl" x="250" y="113" font-size="9.5" text-anchor="middle">issues</text>
 <line class="div" x1="300" y1="62" x2="300" y2="124" stroke-width="1"/>
-<text x="350" y="92" font-size="24" text-anchor="middle" fill="#ffffff" opacity=".4" filter="url(#soft)">116</text>
-<text class="num" x="350" y="92" font-size="24" text-anchor="middle">116</text>
+<text x="350" y="92" font-size="24" text-anchor="middle" fill="#ffffff" opacity=".4" filter="url(#soft)">117</text>
+<text class="num" x="350" y="92" font-size="24" text-anchor="middle">117</text>
 <text class="lbl" x="350" y="113" font-size="9.5" text-anchor="middle">stars</text>
 <line class="div" x1="400" y1="62" x2="400" y2="124" stroke-width="1"/>
 <text x="450" y="92" font-size="24" text-anchor="middle" fill="#ffffff" opacity=".4" filter="url(#soft)">58</text>
