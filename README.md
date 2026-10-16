@@ -39,13 +39,13 @@
 
 <br/>
 
-<!-- SPACE SHOOTER — contribution graph, auto-updated daily via GitHub Actions -->
+<!-- SPACE SHOOTER — contribution graph, auto-updated daily via GitHub Actions 
 <!-- Setup: czl9707/gh-space-shooter — .github/workflows/update-game.yml -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/atikulmunna/atikulmunna/main/game.gif" alt="GitHub Contributions as Space Shooter" width="100%" />
 </div>
 
-<br/>
+<br/> -->
 
 <div align="center">
   <sub><code>// impossible is nothing </code></sub>
